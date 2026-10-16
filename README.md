@@ -36,14 +36,14 @@ was hard to choose.</p>
   condoms were “for Hamas.” Then, days after it had become obvious the $50 million figure was 
   pure fiction, he inflated it to “$100 million.”</p>
   <p>This was another example of Trumpflation – the president’s years-old habit of making his 
-  inaccurate stories more and more inaccurate over time.</p>
+  inaccurate stories more and more inaccurate over time.</p></li>
 
-  <li>Blaming Ukraine for starting the war on Ukraine: Russia started the war in Ukraine when 
+  <li><p>Blaming Ukraine for starting the war on Ukraine: Russia started the war in Ukraine when 
 it invaded Ukraine in 2022. That is an obvious fact. But on Tuesday, when Trump dismissed 
 Ukrainians’ complaints about their exclusion from US-Russia negotiations about ending 
 the war, he falsely accused Ukraine of starting the war – saying, “You should’ve never 
 started it. You could’ve made a deal.” Laughable Kremlin-style propaganda, this time 
-from the president of the United States.</li>
+from the president of the United States.</p></li>
 
   <li><p>The (non-)uniqueness of birthright citizenship: Trump offered what might have sounded 
 like a reasonable rationale for his attempt to get rid of birthright citizenship. The 
@@ -52,14 +52,14 @@ United States, he said, is the only country that has birthright citizenship.</p>
   claim as president in 2018 and on various other occasions. Dozens of countries, including Canada 
   and Mexico, also grant automatic citizenship to people born on their soil.</p></li>
   
-  <li>More up-is-down reversing of the reality of January 6: For years now, Trump has presented 
+  <li><p>More up-is-down reversing of the reality of January 6: For years now, Trump has presented 
 a version of the Capitol riot of January 6, 2021, that bears little resemblance to what 
 actually happened. When he was asked in early February why he granted pardons to people 
 who assaulted first responders, he said the people he pardoned were actually “assaulted 
 by our government” and that “they didn’t assault.” This “they didn’t assault” claim was 
 a brazen denial of the obvious truth, clear in video after video and trial after trial. 
 The Justice Department has said more than 140 officers were assaulted on January 6, and 
-that more than 170 people pleaded guilty to such assaults.</li>
+that more than 170 people pleaded guilty to such assaults.</p></li>
 
   <li><p>A gusher of deceit about California water policy: Amid disaster, more dishonesty. First, 
 Trump linked the Los Angeles wildfires to California’s decision to use some of its water 
@@ -71,11 +71,11 @@ Valley reservoirs for no apparent good reason, Trump declared that some of this 
 was heading to Los Angeles – even though it wasn’t heading to Los Angeles and couldn’t 
 go to Los Angeles.</p>
 
-  <li>The election lie he refused to let die: What can you even say about this one at this 
+  <li><p>The election lie he refused to let die: What can you even say about this one at this 
 point? Trump’s win in the free and fair 2024 election did not convince him to abandon 
 his endless lying about his defeat in the free and fair 2020 election. More than four 
 years after his loss to Joe Biden, he repeated his “rigged” nonsense during at least 
-three events on his 2025 inauguration day alone, then a bunch of times after that.</li>
+three events on his 2025 inauguration day alone, then a bunch of times after that.</p></li>
 
   <li><p>That fable about Olympic boxers, again: Trump, once a prominent promoter of lies about 
 President Barack Obama’s birthplace, continued to demonstrate no hesitation lying about 
@@ -90,23 +90,23 @@ authority that controversially disqualified the women from a 2023 competition, v
 claiming a test had found they had unfair competitive advantages, did not allege they 
 had transitioned.</p></li>
 
-  <li>The president’s fictionalized northern neighbor: Before taking office, Trump casually 
+  <li><p>The president’s fictionalized northern neighbor: Before taking office, Trump casually 
 asserted that the Canadian people “like” his idea of Canada becoming the 51st US state. 
 That was the opposite of the truth; the idea is hugely unpopular with the Canadian 
 public. Then, after his inauguration, Trump continued to make stuff up about Canada – 
 at one point posting on social media and then saying out loud that Canada prohibits US 
 banks from doing business there. He added, “Can you believe that?” No doubt some 
-Americans believe it, but it’s false.</li>
+Americans believe it, but it’s false.</p></li>
 
-<li>Blasting Biden for a program launched under Trump: After the deadly January collision 
+<li><p>Blasting Biden for a program launched under Trump: After the deadly January collision 
 between a military helicopter and a passenger jet, Trump blamed Biden administration 
 diversity initiatives at the Federal Aviation Administration without providing any 
 evidence any FAA diversity policy had anything to do with the crash. He added in a 
 fictional story about a frantic last-minute Biden push to hire people with significant 
 disabilities as air traffic controllers, failing to explain that this FAA pilot program 
-was actually a years-old initiative launched during his own administration in 2019.</li>
+was actually a years-old initiative launched during his own administration in 2019.</p></li>
 
-  <li>Relentless deception about who pays tariffs: When Trump talked about the tariffs he 
+  <li><p>Relentless deception about who pays tariffs: When Trump talked about the tariffs he 
 imposed on Chinese imports in his first presidency, he spoke of how much money “from 
 China” these tariffs generated for the US Treasury. When he talked about the additional 
 tariffs he plans to impose on various other countries during his current presidency, he 
@@ -114,9 +114,9 @@ spoke of a need to “charge them.” At no point did he acknowledge that US imp
 foreign countries, are the ones who pay the actual tariff charges – or that study after 
 study, including one from the federal government’s bipartisan trade commission, found 
 that Americans ended up bearing almost the entire cost of his first-term tariffs on 
-Chinese products.</li>
+Chinese products.</p></li>
 
-<li>A wild exaggeration of the increase in autism rates: Trump keeps flirting with, though 
+<li><p>A wild exaggeration of the increase in autism rates: Trump keeps flirting with, though 
 not explicitly endorsing, the thoroughly debunked conspiracy theory that childhood 
 vaccines cause autism – and in a social media post in early February, he inflated the 
 extent of the increase in the known prevalence of autism over the last two decades. 
@@ -125,7 +125,7 @@ extent of the increase in the known prevalence of autism over the last two decad
 autism diagnoses (to 1 in 36 children by age 8 in 2020) likely has to do with greater 
 awareness of the symptoms and improved screening practices, public statistics from the 
 US Centers for Disease Control and Prevention show that the known prevalence in 2004 
-was 1 in 125 children, not “1 in 10,000.” That’s a pretty big difference.</li>
+was 1 in 125 children, not “1 in 10,000.” That’s a pretty big difference.</p></li>
 
   <li><p>China’s (non-)operation of the Panama Canal: Much of Trump’s lying is ad-libbed. Some of 
 it, however, is planned in advance. Some of it, however, is written into his prepared 
@@ -136,14 +136,14 @@ taking it back.”</p>
 isn’t; Panama is, though Trump could have raised legitimate questions about China’s 
 influence in the area.</p></li>
 
-  <li>Trump’s invented dominance with “the youth vote”: Trump said some accurate things 
+  <li><p>Trump’s invented dominance with “the youth vote”: Trump said some accurate things 
 while touting his victory in the 2024 election, such as the fact that he swept all 
 seven swing states. But in keeping with his longstanding practice of exaggerating 
 even legitimate accomplishments, he also kept sprinkling in a claim that wasn’t 
 even close to correct – an assertion that he won the youth vote “by 36 points.” 
 In fact, exit polls show he lost the youth vote to then-Vice President Kamala 
 Harris. Even if these polls were off, there’s no basis for the claim that he won the 
-youth vote by 36.</li>
+youth vote by 36.</p></li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Trump's 100 BIGGEST lies in his first 100 days in office</h2>
@@ -167,8 +167,7 @@ Here is a list of 100 separate false claims</a> from Trump since his inauguratio
 20, fact-checked concisely with hyperlinks to more information. This is not a 
 comprehensive list of the president’s false claims during this period (there were well 
 over 100 in all) or a count of how many total times he was inaccurate (he uttered many 
-of these 100 claims over and over again).
-
+of these 100 claims over and over again).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Inflation</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -213,8 +212,7 @@ of these 100 claims over and over again).
 	Biden’s last full month in office, was up about 19% since January 2021, the month Biden was 
 	inaugurated; the average price in January 2025, Biden’s last partial month in office, was up 
 	about 21% since January 2021. Neither was close to the 300% increase Trump claimed.</li>
-  <li>
-    <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
 	Falsely claimed</a> the price of apples doubled during Biden’s presidency. 
 	<a href="https://data.bls.gov/timeseries/CUUR0000SEFK01">Federal statistics show</a> the price of 
 	apples increased by about 7% between the month Biden was sworn in as president and December 2024; 
@@ -308,37 +306,35 @@ of these 100 claims over and over again).
 	fully or tended to approve of Zelensky’s actions as president; another <a href="https://www.kiis.com.ua/?lang=eng&cat=reports&id=1496&page=1">
 	survey</a>, conducted in February, found that 57% of Ukrainians said they trusted Zelensky.</li>
   <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
-Falsely claimed</a> Zelensky admitted “half of the money we sent him is ‘MISSING.’” Zelensky had made no such admission; rather, he had taken issue with inflated claims about how much US cash Ukraine had received, saying he doesn’t know where all the professed additional money has gone and that perhaps these higher figures are correct “on paper,” according to a
-<a href="https://www.pravda.com.ua/eng/news/2025/02/2/7496431/">
-translation by the news outlet Ukrainska Pravda</a>.</li>
+    Falsely claimed</a> Zelensky admitted “half of the money we sent him is ‘MISSING.’” Zelensky had made no such admission; rather, he had taken issue with inflated claims about how much US cash Ukraine had received, saying he doesn’t know where all the professed additional money has gone and that perhaps these higher figures are correct “on paper,” according to a
+    <a href="https://www.pravda.com.ua/eng/news/2025/02/2/7496431/">
+    translation by the news outlet Ukrainska Pravda</a>.</li>
   <li><a href="https://truthsocial.com/@realDonaldTrump/posts/114161039436456514">Falsely claimed</a> 
-in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to 
-<a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">Ukrainian leaders</a>, <a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">independent analysts</a>, 
-<a href="https://x.com/ChristopherJM/status/1901783024338878732">journalists</a>, and, 
-<a href="https://www.reuters.com/world/europe/intelligence-shared-with-white-house-shows-ukrainians-not-encircled-kursk-2025-03-20/">Reuters</a> reported, US intelligence.</li>
+    in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to <a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">Ukrainian leaders</a>, <a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">independent analysts</a>, 
+    <a href="https://x.com/ChristopherJM/status/1901783024338878732">journalists</a>, and, 
+    <a href="https://www.reuters.com/world/europe/intelligence-shared-with-white-house-shows-ukrainians-not-encircled-kursk-2025-03-20/">Reuters</a> reported, US intelligence.</li>
   <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">
-Falsely claimed</a> that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were 
-<a href="https://www.cnn.com/2019/09/27/politics/fact-check-adam-schiff-trumps-ukraine-call/index.html">
-exaggerations</a> of 
-<a href="https://www.cnn.com/2019/09/25/politics/donald-trump-ukraine-transcript-call/index.html">
-a rough written transcript</a> of the call, which was released before Schiff delivered his rendition of it.</li>
-  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">Falsely claimed</a>
-Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump <a href="https://www.bbc.com/news/world-europe-50875935">
-signed</a> sanctions related to the project into law in December 2019, when the pipeline was already about 90% complete, and the state-owned Russian company behind the project 
-<a href="https://www.ogj.com/pipelines-transportation/pipelines/article/14189195/nord-stream-2-pipelay-resumes"> announced in December 2020</a>, the month before Trump left office, that construction was resuming.</li>
+    Falsely claimed</a> that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were 
+	<a href="https://www.cnn.com/2019/09/27/politics/fact-check-adam-schiff-trumps-ukraine-call/index.html">exaggerations</a> of 
+    <a href="https://www.cnn.com/2019/09/25/politics/donald-trump-ukraine-transcript-call/index.html">
+     a rough written transcript</a> of the call, which was released before Schiff delivered his rendition of it.</li>
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">
+    Falsely claimed </a> Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump <a href="https://www.bbc.com/news/world-europe-50875935">signed</a> sanctions related to the project into law in December 2019, 
+	when the pipeline was already about 90% complete, and the state-owned Russian company behind the project 
+	<a href="https://www.ogj.com/pipelines-transportation/pipelines/article/14189195/nord-stream-2-pipelay-resumes"> announced in December 2020</a>, the month before Trump left office, that construction was resuming.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Immigration</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="24">
-  <li><a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">Falsely claimed</a> the US is the only country that grants birthright citizenship. <a href="https://www.cia.gov/the-world-factbook/field/citizenship/#:~:text=citizenship%20by%20birth%20describes%20the,of%20the%20citizenship%20of%20parents.">
-Dozens of other countries</a>, including Canada and Mexico, also grant automatic citizenship to people born on their soil.</li>
-  <li><a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
-the majority of them replaced previous barriers</a>, though Trump’s replacement barriers were generally much more formidable.)</li>
-  <li><a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">Falsely claimed</a> 
-“I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
-did not complete the wall</a>. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left office, there were <a href="https://www.cnn.com/2022/11/15/politics/fact-check-trump-announcement-speech-2024/index.html">
-about 280 miles</a> where wall construction had been planned but not executed.</li>
+  <li><a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">Falsely claimed</a> the US is the only country that grants birthright citizenship. <a href="https://www.cia.gov/the-world-factbook/field/citizenship/#:~:text=citizenship%20by%20birth%20describes%20the,of%20the%20citizenship%20of%20parents.">Dozens of other countries</a>, including Canada and Mexico, also grant automatic citizenship to people born on their soil.</li>
+  <li><a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And 
+  <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">the majority of them replaced previous barriers</a>, though Trump’s replacement barriers were generally much more formidable.)</li>
+  <li><a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">Falsely claimed</a> “I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he 
+  <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
+  did not complete the wall</a>. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left 
+  office, there were <a href="https://www.cnn.com/2022/11/15/politics/fact-check-trump-announcement-speech-2024/index.html">
+  about 280 miles</a> where wall construction had been planned but not executed.</li>
   <li><a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> 
 that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but <a href="https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/US59B8~1.PDF">not the lowest</a> “ever recorded.”</li>
   <li><a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> 
@@ -408,19 +404,20 @@ acknowledged in the last year of that presidency</a> that Iran was continuing to
 	<a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
 	“they paid”</a> – because of the tariffs he imposed during his first presidency. US importers, not foreign exporters like China, make the tariff payments, and study after study has found that Americans bore the overwhelming majority of the costs.</li>
   <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
-Falsely claimed</a> no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue from tariffs on imports from China <a href="https://fraser.stlouisfed.org/title/tariff-1789-hamilton-tariff-5884?page=2">
-since 1789</a>, and it was <a href="https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/">
-generating billions</a> per year from such tariffs during the Obama administration.</li>
+    Falsely claimed</a> no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue 
+	from tariffs on imports from China <a href="https://fraser.stlouisfed.org/title/tariff-1789-hamilton-tariff-5884?page=2">
+	since 1789</a>, and it was <a href="https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/">
+	generating billions</a> per year from such tariffs during the Obama administration.</li>
   <li><a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
-Falsely claimed</a>, “Above all, China is operating the Panama Canal.” 
-  <a href="https://www.cnn.com/2025/01/17/politics/trump-panama-canal-threats-history-mulino/index.html">
-  It isn’t</a>; Panama is. Trump could have raised 
-  <a href="https://www.csis.org/analysis/key-decision-point-coming-panama-canal">
-  legitimate questions</a> about China’s influence in the canal area, but “operating the canal” went too far.</li>
+    Falsely claimed</a>, “Above all, China is operating the Panama Canal.” 
+    <a href="https://www.cnn.com/2025/01/17/politics/trump-panama-canal-threats-history-mulino/index.html">
+    It isn’t</a>; Panama is. Trump could have raised 
+    <a href="https://www.csis.org/analysis/key-decision-point-coming-panama-canal">
+    legitimate questions</a> about China’s influence in the canal area, but “operating the canal” went too far.</li>
   <li><a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
-Falsely claimed</a> that during his first presidency, he successfully pressured China into completely ceasing its purchases of oil from Iran. China’s oil imports from Iran did briefly plummet under Trump in 2019, the year the Trump administration 
-  <a href="https://www.cnn.com/2019/04/22/politics/trump-administration-iranian-oil-sanction-waiver/index.html">
-  made a concerted effort to deter such purchases</a>, but they never stopped – and then they rose sharply again, up to 
+    Falsely claimed</a> that during his first presidency, he successfully pressured China into completely ceasing its purchases of oil from Iran. China’s oil imports from Iran did briefly plummet under Trump in 2019, the year the Trump administration 
+    <a href="https://www.cnn.com/2019/04/22/politics/trump-administration-iranian-oil-sanction-waiver/index.html">
+    made a concerted effort to deter such purchases</a>, but they never stopped – and then they rose sharply again, up to 
     <a href="https://www.cnn.com/2023/12/01/politics/trump-dishonesty-avalanche-102-fall-false-claims/index.html">
 	hundreds of thousands of barrels per day</a>, while Trump was still president.</li>
 </ol>
@@ -665,125 +662,120 @@ Falsely claimed</a> that when a federal employee didn’t respond to the initial
 Falsely described</a> the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, <a href="https://www.cnn.com/2024/02/08/politics/robert-hur-report-biden-classified-documents-read">Robert Hur</a>, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”</li>
 </ol>
 
-https://www.project2025.observer/
+<p>https://www.project2025.observer/</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-President Donald Trump again turned a Cabinet meeting into a wide-ranging conversation 
-with reporters – and again uttered a whole bunch of false claims in the process.
+<p>President Donald Trump again turned a Cabinet meeting into a wide-ranging conversation 
+with reporters – and again uttered a whole bunch of false claims in the process.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Trump’s Tuesday remarks at the White House included inaccurate assertions about 
+<p>Trump’s Tuesday remarks at the White House included inaccurate assertions about 
 inflation, immigration, his tariff policy, the massive domestic policy bill he signed 
 last week, China’s use of wind energy, US and European aid to Ukraine, the US 
-relationship with South Korea, and other subjects.
-
+relationship with South Korea, and other subjects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Here is a fact check of 11 of the president’s false claims. This is not a comprehensive 
-list.
+<p>Here is a fact check of 11 of the president’s false claims. This is not a comprehensive list.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The economy, tariffs, taxes</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Inflation: As he has repeatedly, Trump falsely claimed Tuesday, “We have no inflation.” 
+<p><b>Inflation:</b> As he has repeatedly, Trump falsely claimed Tuesday, “We have no inflation.” 
 The US does have inflation – an annual inflation rate of 2.4% in May, an uptick from a 
 2.3% annual rate in April. That April rate was the lowest since early 2021, and lower 
 than some economists expected for April after Trump imposed significant new tariffs, 
 but it’s not “no inflation” whatsoever. (And on a month-to-month basis, US consumer 
-prices increased 0.1% in May and 0.2% in April.)
+prices increased 0.1% in May and 0.2% in April.)</p>
 
-Tax on Social Security: Touting the new domestic policy legislation, Trump repeated his 
-false claim that it achieves his campaign promise of “no tax on Social Security.” It 
-does not.
+<p><b>Tax on Social Security:</b> Touting the new domestic policy legislation, Trump repeated his 
+false claim that it achieves his campaign promise of “no tax on Social Security.” It does not.</p>
 
-The legislation does create an additional, temporary $6,000-per-year tax deduction for 
+<p>The legislation does create an additional, temporary $6,000-per-year tax deduction for 
 individuals age 65 and older (with a smaller deduction for individuals earning $75,000 
 per year or more), but the White House itself has implicitly acknowledged that millions 
 of Social Security recipients age 65 and older will continue to pay taxes on their 
 benefits – and that new deduction, which expires in 2028, doesn’t even apply to the 
-Social Security recipients who are younger than 65.
+Social Security recipients who are younger than 65.</p>
 
-Trump’s tariff letters: Trump spoke of the letters he sent to various foreign leaders 
+<p><b>Trump’s tariff letters:</b> Trump spoke of the letters he sent to various foreign leaders 
 announcing the tariff rates he plans to impose on their countries beginning in August 
 – and said, “I just want you to know - a letter means a deal.” That’s just not true. 
 Multiple letters the White House revealed on Monday announced tariff rates Trump said 
 he plans to unilaterally place on imports from foreign countries; those letters did 
-not describe negotiated deals.
+not describe negotiated deals.</p>
 
-Who pays tariffs: Trump repeatedly spoke of how his new tariffs mean other countries 
+<p><b>Who pays tariffs:</b> Trump repeatedly spoke of how his new tariffs mean other countries 
 will have to “pay” the US for the privilege of doing business in the US. Contrary to 
 Trump’s frequent assertions, it is the US importers who buy foreign products, not 
-foreign countries themselves, who make the tariff payments to the US government.
+foreign countries themselves, who make the tariff payments to the US government.</p>
 
-Tariff history: Trump repeated his regular false claim that the US was “proportionately” 
+<p><b>Tariff history:</b> Trump repeated his regular false claim that the US was “proportionately” 
 at its “wealthiest” between 1870 and 1913, when tariff revenue made up a much larger 
 share of federal revenue before the reintroduction of the income tax. Trump didn’t 
 explain what he meant by “proportionately” or “the wealthiest,” but economists say that 
 by any standard measure, the US is far wealthier today than it was in the early 20th 
 century and prior; per capita gross domestic product is now many times higher than it 
-was then.
+was then.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Environment and energy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-China and wind power: Trump, asserting that “smart countries” don’t use wind and solar 
+<p><b>China and wind power:</b> Trump, asserting that “smart countries” don’t use wind and solar 
 energy, repeated his recent false claim that China, the world’s biggest manufacturer 
 of wind turbines, barely uses such equipment itself - wrongly saying, “They don’t have 
 a lot of wind farms, I’ll tell you; very, very few.” In reality, China is the world 
 leader in the generation of wind power and has massive wind farms onshore and offshore; 
-it continues to install additional wind capacity much faster than the US.
+it continues to install additional wind capacity much faster than the US.</p>
 
-California and energy: Trump, reviving a previous inaccurate complaint about 
+<p><b>California and energy:</b> Trump, reviving a previous inaccurate complaint about 
 California’s use of renewable energy sources, falsely claimed: “They have blackouts 
 and brownouts every week.” The state simply does not; its power system has improved 
-significantly since the rolling blackouts of a 2020 heat wave.
+significantly since the rolling blackouts of a 2020 heat wave.</p>
 
-Daniel Villasenor, a spokesperson for Gov. Gavin Newsom, said in a Tuesday email that 
+<p>Daniel Villasenor, a spokesperson for Gov. Gavin Newsom, said in a Tuesday email that 
 Trump is again “lying about California.” Villasenor wrote: “The state has not experienced 
 any rotating outages since 2020 – and in the last three years, no Flex Alert calling to 
 conserve power has even been issued. Not only has our grid been increasingly resilient, 
 it’s also cleaner than ever – clean energy provided for 100% of demand on our grid for 
-at least some part of the day 167 out of the first 180 days of the year.”
-
+at least some part of the day 167 out of the first 180 days of the year.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Foreign affairs</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-US and European aid to Ukraine: Trump repeated his frequent false claim that the US has 
+<p><b>US and European aid to Ukraine:</b> Trump repeated his frequent false claim that the US has 
 provided “far more” wartime aid to Ukraine that Europe has, saying the US is “in there 
-for over $300 billion; Europe’s in there for over $100 billion.”
+for over $300 billion; Europe’s in there for over $100 billion.”</p>
 
-Those numbers are not close to accurate.
+<p>Those numbers are not close to accurate.</p>
 
-According to the Kiel Institute for the World Economy, a German think tank that closely 
+<p>According to the Kiel Institute for the World Economy, a German think tank that closely 
 tracks international aid to Ukraine, the US had committed about $139 billion in military, 
 financial and humanitarian aid to Ukraine from late January 2022, just prior to Russia’s 
 full-scale invasion, through April 2025 – well short of about $298 billion committed by 
 European countries and the European Union. The gap was much narrower in terms of aid 
 actually allocated through April 2025 – about $183 billion for Europe to about $134 
-billion for the US – but even those figures clearly disprove Trump’s claim.
+billion for the US – but even those figures clearly disprove Trump’s claim.</p>
 
-South Korea’s military cost-sharing: Trump repeated his false claim that South Korea 
+<p><b>South Korea’s military cost-sharing:</b> Trump repeated his false claim that South Korea 
 convinced former President Joe Biden to let it stop making payments to help cover the 
 cost of the US military presence in South Korea, saying Biden “cut it down to nothing.” 
 In fact, Biden’s administration signed two cost-sharing agreements with South Korea, 
 one in 2021 and one in 2024, that included South Korean spending increases – meaning 
-South Korea agreed to pay more than it did during Trump’s first term.
+South Korea agreed to pay more than it did during Trump’s first term.</p>
 
-US troops in South Korea: Trump again exaggerated the US troop presence in South Korea, 
+<p><b>US troops in South Korea:</b> Trump again exaggerated the US troop presence in South Korea, 
 falsely saying, “You know, we have 45,000 soldiers in South Korea.” Official Defense 
 Department data, published online, says the US had 26,206 military personnel in South 
-Korea as of March 31, 2025, with 22,844 on active duty.
+Korea as of March 31, 2025, with 22,844 on active duty.</p>
 
 <h3>Immigration</h3>
-Migration and mental health: Trump falsely claimed that unnamed foreign countries 
+<p>Migration and mental health: Trump falsely claimed that unnamed foreign countries 
 “released their insane asylum – the insane asylum population into our country.” Even 
 Trump’s own presidential campaign could not produce any evidence for his frequent 
 claims, which he has repeated for more than two years, that foreign countries 
 deliberately emptied their mental health facilities to somehow get patients to 
-migrate to the United States.
+migrate to the United States.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1>Let's not forget the criminal acts</h1>
+<h2>Let's not forget the criminal acts</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, 
+<p>Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, 
 Corruptions, and Crimes Early in President Trump’s first term, McSweeney’s editors began 
 to catalog the head-spinning number of misdeeds coming from his administration. We called 
 this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it 
@@ -791,91 +783,93 @@ felt urgent to track them, to ensure these horrors—happening almost daily—wo
 forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, 
 economic, and constitutional crises, we felt it critical to make an inventory of this 
 new round of horrors. This list will be updated monthly between now and the end of 
-Donald Trump’s second term.
+Donald Trump’s second term.</p>
 
-This list, along with everything McSweeney’s publishes on this site, is offered ad-free 
+<p>This list, along with everything McSweeney’s publishes on this site, is offered ad-free 
 and at no charge to our readers. If you are moved to make a donation in any amount or 
 subscribe to our website’s Patreon, please do. This will help support this project and 
-our other work.
+our other work.</p>
 
-June 2025:
-Atrocities 273-313
-by Emily Greenberg and Cliff Mayotte
- 
-Early in President Trump’s first term, McSweeney’s editors began to catalog the head-
+<p><b>June 2025:</b> Atrocities 273-313 by Emily Greenberg and Cliff Mayotte.</p>
+
+<p>Early in President Trump’s first term, McSweeney’s editors began to catalog the head-
 spinning number of misdeeds coming from his administration. We called this list a 
 collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent 
 to track them, to ensure these horrors—happening almost daily—would not be forgotten. 
 Now that Trump has returned to office, amid civil rights, humanitarian, economic, and 
 constitutional crises, we felt it critical to make an inventory of this new round of 
 horrors. This list will be updated monthly between now and the end of Donald Trump’s 
-second term.
+second term.</p>
 
 - - -
-These lists, along with everything McSweeney’s publishes on this site, are offered 
+<p>These lists, along with everything McSweeney’s publishes on this site, are offered 
 ad-free and at no charge to our readers. If you are moved to make a donation in any 
 amount or subscribe to our website’s Patreon, please do. This will help support this 
-project and our other work.
+project and our other work.</p>
 
 - - -
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-ATROCITY KEY
+<h3>ATROCITY KEY</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-The greatest graduation gift is this gorgeous deluxe boxed set of Walt Whitman’s Leaves 
-of Grass. Shockingly affordable!
- – Constitutional Illegalities, Collusion, and/or Obstruction of Justice
- – Environment
- – Harassment, Bullying, Retribution, and/or Sexual Misconduct
- – Lies and Misinformation
- – Musk Madness
- – Policy
- – Public Statements and Social Media Posts
- – Trump Family Business Dealings
- – Trump Staff and Administration
- – White Supremacy, Racism, Misogyny, Homophobia, Transphobia, and/or Xenophobia
+<p>The greatest graduation gift is this gorgeous deluxe boxed set of Walt Whitman’s Leaves 
+of Grass. Shockingly affordable!</p>
+<ul>
+  <li>Constitutional Illegalities, Collusion, and/or Obstruction of Justice</li>
+  <li>Environment</li>
+  <li>Harassment, Bullying, Retribution, and/or Sexual Misconduct</li>
+  <li>Lies and Misinformation</li>
+  <li>Musk Madness</li>
+  <li>Policy</li>
+  <li>Public Statements and Social Media Posts</li>
+  <li>Trump Family Business Dealings</li>
+  <li>Trump Staff and Administration</li>
+  <li>White Supremacy, Racism, Misogyny, Homophobia, Transphobia, and/or Xenophobia</li>
+</ul>
 
 - - -
-Main Index
-Trump’s first term
+
+<p>Main Index</p>
+<p>Trump’s first term</p>
+
 - - -
-JUNE 2025
- – June 1, 2025 – The Trump administration
-abandoned Biden-era regulations for slashing credit card late fees. The purported savings 
+
+<p>JUNE 2025</p>
+<ul>
+  <li>June 1, 2025 – The Trump administration abandoned Biden-era regulations for slashing credit card late fees. The purported savings 
 were posted on an “Agency Deregulation Leaderboard.” The leaderboard claimed the Trump 
 administration saved Americans $29.4 billion as a result of reversing regulations in 
 health insurance, bank fees, and appliance efficiency standards. According to experts 
 and government analyses, the leaderboard’s findings are not reliable. Steve Cicala, 
 codirector of the National Bureau of Economic Research’s Project on the Economic 
 Analysis of Regulation, said, “This is just taking money from households and transferring 
-it to banks and credit card companies, and to water and power utility companies.”
+it to banks and credit card companies, and to water and power utility companies.”</li>
 
-– June 2, 2025 – President Trump announced his goal to double the amount of oil coming 
+  <li>June 2, 2025 – President Trump announced his goal to double the amount of oil coming 
 through Alaska’s oil pipeline system. His plans would repeal Biden-era restrictions 
 banning drilling and mining in millions of acres of pristine Alaskan wilderness. The 
 announcement highlighted a trip to Prudhoe Bay by US Energy Secretary Chris Wright. 
 In a post to X, Wright said, “Unleashing American energy goes hand in hand with 
 unleashing American prosperity.” In response, Kristen Miller, executive director of 
 the Alaska Wilderness League, said, “This is another attempt to sell off public lands 
-to oil industry billionaires at the expense of one of the wildest places left in America.”
+to oil industry billionaires at the expense of one of the wildest places left in America.”</li>
 
-– June 2, 2025 – David Richardson, the acting head of FEMA, told employees that he did 
+  <li>June 2, 2025 – David Richardson, the acting head of FEMA, told employees that he did 
 not know the United States had a hurricane season. “Yesterday, as everybody knows, was 
 the first day of hurricane season,” he said. “I didn’t realize it was a season.” FEMA 
 staff were unclear if Richardson was serious or making a joke. The DHS, which oversees 
 FEMA, stated in a press release that Mr. Richardson was joking. Before heading FEMA, 
-Richardson worked in the DHS’s Countering Weapons of Mass Destruction Office.
+Richardson worked in the DHS’s Countering Weapons of Mass Destruction Office.</li>
 
-– June 3, 2025 – Former DOGE director Elon Musk blasted President Trump’s “Big Beautiful 
+  <li>June 3, 2025 – Former DOGE director Elon Musk blasted President Trump’s “Big Beautiful 
 Bill” of tax cuts and spending plans just days after departing the administration. Musk 
 posted on X, “This massive, outrageous, pork-filled Congressional spending bill is a 
 disgusting abomination. Shame on those who voted for it.” Axios reported that Musk’s 
 criticisms stemmed from the bill’s cutting of the electric vehicle tax credit, the 
 Federal Aviation Administration’s refusal to use his Starlink satellite system for 
 national air traffic control, and Trump’s withdrawal of Musk ally Jared Isaacman to 
-be NASA administrator. The Axios source claimed that Elon was “butthurt.”
+be NASA administrator. The Axios source claimed that Elon was “butthurt.”</li>
 
-– June 5, 2025 – Elon Musk and Donald Trump’s relationship deteriorated as the former 
+  <li>June 5, 2025 – Elon Musk and Donald Trump’s relationship deteriorated as the former 
 allies hurled personal insults at each other through social media. Their feud began 
 after Musk criticized Trump’s “Big Beautiful Bill," calling it “a disgusting 
 abomination.” Trump responded, “The easiest way to save money in our Budget, Billions 
@@ -887,30 +881,29 @@ Musk’s recent Oval Office farewell, where he sported a black eye. Trump retort
 saw a man who was very happy when he stood behind the Oval desk. Even with a black eye. 
 I said, Do you want a little makeup?” Musk admitted that the shiner came from his 
 five-year-old son, X. “I was just horsing around with little X, and I said, ‘Go ahead, 
-punch me in the face,’ and he did.”
+punch me in the face,’ and he did.”</li>
 
-– June 6, 2025 – Kilmar Ábrego García, who was mistakenly deported to El Salvador during 
+  <li>June 6, 2025 – Kilmar Ábrego García, who was mistakenly deported to El Salvador during 
 ICE’s initial crackdown, was returned to the United States to face criminal charges. In 
 a press briefing, US Attorney General Pam Bondi said that a federal grand jury had 
 indicted Ábrego García on counts of illegally smuggling undocumented people as well as 
 of conspiracy to commit that crime. “He was a smuggler of humans and children and 
 women,” she claimed. “This is what American justice looks like.” Ábrego García’s lawyer, 
 Simon Sandoval-Moshenberg, said, “After months of delay and secrecy, they’re bringing 
-him back, not to correct their error but to prosecute him.”
+him back, not to correct their error but to prosecute him.”</li>
 
-– June 6, 2025 – A large crowd of demonstrators in Los Angeles gathered in the downtown 
+  <li>June 6, 2025 – A large crowd of demonstrators in Los Angeles gathered in the downtown 
 Fashion District after ICE agents showed up at an apparel manufacturing business. By 
 the end of the day, forty people had been taken by ICE and hundreds of protesters 
 clashed with police at the Edward R. Roybal Federal Building. In response to the raids, 
 Los Angeles Mayor Karen Bass said in a post on X, “As Mayor of a proud city of 
 immigrants, I am deeply angered by what has taken place. These tactics sow terror in 
 our communities and disrupt basic principles of safety. We will not stand for this.” 
-The next morning, FBI Director Kash Patel responded to Bass, saying, “We will.”
+The next morning, FBI Director Kash Patel responded to Bass, saying, “We will.”</li>
 
-– June 7, 2025 – A White House memorandum issued by Donald Trump for the secretary of 
-defense, the attorney general, and the secretary of homeland security:
-
-“Numerous incidents of violence and disorder have recently occurred and threaten to 
+  <li>June 7, 2025 – A White House memorandum issued by Donald Trump for the secretary of 
+defense, the attorney general, and the secretary of homeland security:<br>
+  “Numerous incidents of violence and disorder have recently occurred and threaten to 
 continue in response to the enforcement of Federal law by the US Immigration and 
 Customs Enforcement (ICE) and other United States Government personnel who are 
 performing Federal functions and supporting the faithful execution of Federal 
@@ -922,9 +915,9 @@ Constitution and the laws of the United States of America, I hereby call into
 Federal service members and units of the National Guard under 10 U.S.C.12406 to 
 temporarily protect ICE and other United States Government personnel who are 
 performing Federal functions, including the enforcement of Federal law, and to 
-protect Federal property.”
+protect Federal property.”</li>
 
-– June 8, 2025 – Following orders from the president and bypassing consent from 
+  <li>June 8, 2025 – Following orders from the president and bypassing consent from 
 California Governor Gavin Newsom, approximately three hundred National Guard troops 
 began arriving in Los Angeles. The National Guard is often deployed to respond to 
 natural disasters and is typically only federalized when a governor makes a request. 
@@ -934,9 +927,9 @@ rights activists marching from Selma to Montgomery, Alabama. In a joint statemen
 twenty-two Democratic governors called Trump’s decision “an alarming abuse of power.” 
 Characterizing the deployment as “unlawful” and “a serious breach of state sovereignty,” 
 Governor Newsom formally requested that the Trump administration rescind its deployment 
-of Guard troops.
+of Guard troops.</li>
 
-– June 9, 2025 – The US military confirmed that seven hundred Marines were being deployed 
+  <li>June 9, 2025 – The US military confirmed that seven hundred Marines were being deployed 
 to Los Angeles, and the Department of Defense announced it was deploying an additional 
 two thousand National Guard troops. Meanwhile, California sued the Trump administration 
 over the deployment of the National Guard, arguing that Trump had “unlawfully bypassed” 
@@ -944,8 +937,8 @@ California Governor Gavin Newsom by federalizing the National Guard troops witho
 governor’s permission. “One of the cornerstones of our Nation and our democracy is that 
 our people are governed by civil, not military, rule,” the lawsuit stated. “The Founders 
 enshrined these principles in our Constitution—that a government should be accountable 
-to its people, guided by the rule of law, and one of civil authority, not military rule.”
-
+to its people, guided by the rule of law, and one of civil authority, not military rule.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>National Guard troops arrive in Los Angeles (AP)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -990,8 +983,8 @@ CDC director.</li>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>President Donald J. Trump signs travel restrictions executive order (YouTube)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– June 10, 2025 – During a speech at Fort Bragg, President Trump announced that he would 
+<ul>
+  <li>June 10, 2025 – During a speech at Fort Bragg, President Trump announced that he would 
 restore the original Confederate names of seven Army bases. Skirting a law that prevents 
 the Pentagon from naming bases after Confederate leaders or battles, Trump said the bases 
 instead honored soldiers who happened to share the same names as the Confederates. A 
@@ -1000,9 +993,9 @@ original name, but claimed the base now honored Roland L. Bragg, a World War II 
 rather than the Confederate general Braxton Bragg. “The bottom line is [Trump]’s 
 choosing surname over service,” said Ty Seidule, a retired Army brigadier general. 
 “It’s breaking the spirit of a law that was created by the will of the American people 
-through their elected representatives.”
+through their elected representatives.”</li>
 
-– June 10, 2025 – In an interview with Bloomberg News, US Ambassador to Israel Mike 
+  <li>June 10, 2025 – In an interview with Bloomberg News, US Ambassador to Israel Mike 
 Huckabee said that the US would no longer work toward the formation of an independent 
 Palestinian state, marking a major shift in foreign policy. When asked if a Palestinian 
 state remained a US policy goal, Huckabee said, “I don’t think so,” adding that the 
@@ -1013,9 +1006,9 @@ in Judea and Samaria?” In a separate BBC interview, Huckabee expanded on his v
 “Muslim countries have 644 times the amount of land that are controlled by Israel. So 
 maybe, if there is such a desire for a Palestinian state, there would be someone who 
 would say, we’d like to host it.” During his 2008 presidential run, Huckabee said, 
-“There is no such thing as a Palestinian.”
+“There is no such thing as a Palestinian.”</li>
 
-– June 10, 2025 – Following another day of protests in Los Angeles, Mayor Karen Bass 
+  <li>June 10, 2025 – Following another day of protests in Los Angeles, Mayor Karen Bass 
 announced a curfew, and Governor Gavin Newsom made a nationally televised address. 
 “Donald Trump, without consulting California law enforcement leaders, commandeered two 
 thousand of our state’s National Guard members to deploy on our streets, illegally and 
@@ -1025,13 +1018,13 @@ Newsom, who accused Trump of “fanning the flames.” “Democracy is under ass
 before our eyes,” Newsom continued. “The rule of law has increasingly been given away 
 to the rule of Don.” On the same day, ABC News reported that there were more US troops 
 deployed to Los Angeles than to Iraq and Syria, while Poynter reported that journalists 
-were injured—and possibly targeted—while covering the protests.
-
+were injured—and possibly targeted—while covering the protests.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Governor Newsom’s speech on Trump as LA protests persist (CNN)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– June 11, 2025 – The Trump administration announced it would eliminate Biden-era 
+<ul>
+  <li>June 11, 2025 – The Trump administration announced it would eliminate Biden-era 
 regulations on power plants, the second largest source of pollution, and weaken 
 restrictions on other hazardous emissions that could threaten public health. “EPA 
 is helping pave the way for American energy dominance, because energy development 
@@ -1041,9 +1034,9 @@ EPA Administrator Lee Zeldin, who also called efforts to rein in climate change 
 protections from power plant pollution is absolutely illogical and indefensible,” said 
 former EPA Administrator Gina McCarthy. “By giving a green light to more pollution, 
 his legacy will forever be someone who does the bidding of the fossil fuel industry 
-at the expense of our health.”
+at the expense of our health.”</li>
 
-– June 11, 2025 – During the Los Angeles protests, a video captured federal agents in 
+  <li>June 11, 2025 – During the Los Angeles protests, a video captured federal agents in 
 two unmarked vehicles colliding directly into another car and trapping it between them to 
 arrest the driver. Besides the driver, a woman and a child were in the car when it was 
 hit. According to witnesses, the agents dispersed a “chemical-smelling smoke” near the 
@@ -1053,9 +1046,9 @@ and arrest. Although LAPD initially said the incident was being investigated as 
 possible assault or hit and run, DHS pushed back against that characterization on 
 social media: “This was no hit and run. This was a targeted arrest of a violent rioter.” 
 On the same day, another video showed law enforcement shooting a woman at close range 
-with what appeared to be “less lethal” ammunition while she was walking to her apartment.
+with what appeared to be “less lethal” ammunition while she was walking to her apartment.</li>
 
-– June 12, 2025 – After attempting to ask a question during DHS Secretary Kristi Noem’s 
+<li>June 12, 2025 – After attempting to ask a question during DHS Secretary Kristi Noem’s 
 press conference in Los Angeles, California Senator Alex Padilla, the son of Mexican 
 immigrants, was forcibly removed from the room, pushed to the floor, and handcuffed by 
 Secret Service and FBI agents. In a viral video of the incident, Padilla can be heard 
@@ -1067,13 +1060,13 @@ how this administration responds to a senator with a question, if this is how th
 responds to a senator with a question, you can only imagine what they’re doing to farm 
 workers, to cooks, to day laborers throughout the LA community and throughout 
 California and throughout the country. We will hold this administration accountable,” 
-Padilla later told reporters.
-
+Padilla later told reporters.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>US Sen. Alex Padilla forcefully removed from Noem news conference, handcuffed (KTLA)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– June 14, 2025 – Following over a week of protests in Los Angeles against the Trump 
+<ul>
+<li>June 14, 2025 – Following over a week of protests in Los Angeles against the Trump 
 administration’s immigration raids, over five million people marched in over two 
 thousand No Kings protests in all fifty states on Donald Trump’s birthday. The 
 predominantly peaceful demonstrations were the largest protests in Trump’s second 
@@ -1081,13 +1074,13 @@ term and coincided with Trump’s modestly attended military parade in the capit
 Ostensibly a celebration of the US army’s 250th birthday, even some administration 
 officials referred to the affair as “Donald Trump’s birthday parade.” The military 
 parade shut down most of Washington, DC, for the day and reportedly cost up to $45 
-million.
-
+million.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Highlights from President Trump’s military parade (Boston Globe)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– June 15, 2025 – Trump directed federal immigration officials to prioritize deportations 
+<ul>
+  <li>June 15, 2025 – Trump directed federal immigration officials to prioritize deportations 
 from Democratic-run cities. The move came after large protests in Los Angeles against the 
 Trump administration’s immigration policies. In a post on Truth Social, Trump said 
 officials “must expand efforts to detain and deport Illegal Aliens in America’s largest 
@@ -1096,9 +1089,9 @@ Illegal Aliens reside.” In the post, Trump pitted “REAL Americans,” agains
 Left Democrats,” who “are sick of mind, hate our Country, and actually want to destroy 
 our Inner Cities.” Trump’s announcement came one day after the “No Kings” demonstrations. 
 The largest turnouts for the protests came from the Democratic-run cities of Los Angeles, 
-New York, and Chicago.
+New York, and Chicago.</li>
 
-– June 16, 2025 – The Government Accountability Office (GAO) concluded that the Trump 
+  <li>June 16, 2025 – The Government Accountability Office (GAO) concluded that the Trump 
 administration violated the law by freezing money earmarked by Congress for the 
 Institute of Museum and Library Services. The agency serves as the federal government’s 
 primary source of funding for libraries, museums, and archives. The Impoundment Control 
@@ -1107,9 +1100,9 @@ approved by Congress. Following the release of the GAO’s verdict, the Senate�
 Democratic appropriators, Washington Senator Patty Murray, said that President Trump 
 “may not like the fact that Congress has invested in helping kids learn at their local 
 library—but that does not change the fact that he himself signed these investments into 
-law.”
+law.”</li>
 
-– June 17, 2025 – New York City comptroller and Democratic mayoral candidate Brad Lander 
+  <li>June 17, 2025 – New York City comptroller and Democratic mayoral candidate Brad Lander 
 was arrested by federal agents at an immigration courthouse in Manhattan. Lander was 
 escorting a migrant whom agents were seeking to arrest. Videos show Lander standing by 
 a migrant man in a hallway when several law enforcement officers in plainclothes, some 
@@ -1121,13 +1114,13 @@ hand on a law enforcement officer, you will face consequences.” California Sen
 Padilla, who was recently handcuffed during DHS Secretary Kristi Noem’s press conference 
 in Los Angeles, said of Lander’s arrest, “If there was any question as to whether or not 
 this was a raw political attack on cities that elect Democratic leaders, you have all 
-the proof that you need.”
-
+the proof that you need.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>ICE agents arrest New York City comptroller Brad Lander (The Guardian)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– June 19, 2025 – President Trump didn’t acknowledge Juneteenth, the federal holiday 
+<ul>
+  <li>June 19, 2025 – President Trump didn’t acknowledge Juneteenth, the federal holiday 
 that marks the end of slavery in the United States. White House Press Secretary Karoline 
 Leavitt told reporters she wasn’t aware of any plans by Trump to sign a holiday 
 proclamation. During the previous week, Trump had issued proclamations commemorating 
@@ -1135,9 +1128,9 @@ Father’s Day, Flag Day, National Flag Week, and the 250th anniversary of the B
 Bunker Hill—none of which are among the eleven annual federal holidays. In the evening, 
 he took to Truth Social and complained about “too many working holidays.” “Soon we’ll 
 end up having a holiday for every once [sic] working day of the year. It must change 
-if we are going to, MAKE AMERICA GREAT AGAIN!”
+if we are going to, MAKE AMERICA GREAT AGAIN!”</li>
 
-– June 20, 2025 – The Trump administration sent layoff notices to more than six hundred 
+  <li>June 20, 2025 – The Trump administration sent layoff notices to more than six hundred 
 employees at Voice of America, a federally funded organization that provides independent 
 reporting to countries with limited press freedom. Kari Lake, a Trump ally and a senior 
 adviser at the news organization’s oversight agency, described the move as “part of a 
@@ -1145,9 +1138,9 @@ long-overdue effort to dismantle a bloated, unaccountable bureaucracy.” In Mar
 Trump’s executive order had accused the news group of spreading “anti-American” and 
 partisan “propaganda,” calling it “the voice of radical America.” The order also called 
 for the dismantling of the news agency. Voice of America has beamed news reports to 
-countries under autocratic regimes since 1942.
+countries under autocratic regimes since 1942.</li>
 
-– June 21, 2025 – On social media, President Trump announced that the US Air Force and 
+  <li>June 21, 2025 – On social media, President Trump announced that the US Air Force and 
 Navy had attacked three Iranian nuclear facilities, upending decades of American 
 diplomacy: “We have completed our very successful attack on the three Nuclear sites 
 in Iran, including Fordow, Natanz, and Esfahan. All planes are now outside of Iran 
@@ -1160,16 +1153,16 @@ were “a spectacular military success.” Later, he threatened Iran on Truth So
 “ANY RETALIATION BY IRAN AGAINST THE UNITED STATES OF AMERICA WILL BE MET WITH FORCE 
 FAR GREATER THAN WHAT WAS WITNESSED TONIGHT.” Congress was not consulted prior to the 
 attacks, and some representatives said they first learned about the strikes via social 
-media.
+media.</li>
 
-– June 23, 2025 – President Trump announced a ceasefire between Israel and Iran: 
+  <li>June 23, 2025 – President Trump announced a ceasefire between Israel and Iran: 
 “CONGRATULATIONS TO EVERYONE! It has been fully agreed by and between Israel and 
 Iran that there will be a Complete and Total CEASEFIRE (in approximately 6 hours 
 from now, when Israel and Iran have wound down and completed their in progress, 
 final missions!), for 12 hours, at which point the War will be considered, ENDED!” 
-Despite Trump’s announcement, the two countries continued to attack each other.
+Despite Trump’s announcement, the two countries continued to attack each other.</li>
 
-– June 23, 2025 – A preliminary classified report by the Defense Intelligence Agency 
+  <li>June 23, 2025 – A preliminary classified report by the Defense Intelligence Agency 
 found that America’s strikes on three Iranian nuclear sites set Iran’s nuclear program 
 back by only a few months. According to the report, most of Iran’s stockpile of enriched 
 uranium was also moved before the strikes. The report directly contradicted President 
@@ -1179,9 +1172,9 @@ characterized the report’s findings as “flat-out wrong” and an attempt to 
 President Trump.” “Everyone knows what happens when you drop 14 30,000-pound bombs 
 perfectly on their targets: total obliteration.” Prior to the strikes, military 
 officials warned that destroying the Fordow plant would require multiple waves of 
-airstrikes lasting days, perhaps weeks.
+airstrikes lasting days, perhaps weeks.</li>
 
-– June 24, 2025 – A whistleblower revealed that Emil Bove III, a senior Justice 
+  <li>June 24, 2025 – A whistleblower revealed that Emil Bove III, a senior Justice 
 Department official, told subordinates that he was willing to ignore court orders to 
 facilitate the Trump administration’s immigration policies. According to the 
 whistleblower Erez Reuveni’s statement, Bove informed his subordinates at a March 
@@ -1189,20 +1182,20 @@ whistleblower Erez Reuveni’s statement, Bove informed his subordinates at a Ma
 deport immigrants and that the planes “needed to take off no matter what,” even if 
 the courts ordered otherwise. “Bove stated that D.O.J. would need to consider 
 telling the courts ‘fuck you’ and ignore any such order,” Reuveni stated in his 
-account.
+account.</li>
 
-– June 24, 2025 – Following his announcement of a ceasefire the day before, President 
+  <li>June 24, 2025 – Following his announcement of a ceasefire the day before, President 
 Trump lashed out at Israel and Iran for continuing to fight. “They don’t know what 
 the fuck they’re doing,” Trump told reporters at the White House. Later, Trump posted 
 a video to social media showing B-2 stealth fighter jets dropping bombs set to the 
 Vince Vance & the Valiants’ song “Bomb Iran,” a parody of the Regents’ song “Barbara 
-Ann.” Thirteen minutes later, Trump posted that “the Ceasefire is in effect!”
-
+Ann.” Thirteen minutes later, Trump posted that “the Ceasefire is in effect!”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Donald Trump: Iran and Israel “don’t know what the fuck they’re doing” (The Guardian)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– June 24, 2025 – After being targeted by the Trump administration, legal permanent 
+<ul>
+  <li>June 24, 2025 – After being targeted by the Trump administration, legal permanent 
 resident and Purple Heart veteran Sae Joon Park self-deported to South Korea. “I 
 can’t believe this is happening in America,” Park told NPR before flying out of 
 Hawaii. “That blows me away—like [it is] a country I fought for.” Park came to the 
@@ -1211,7 +1204,7 @@ During the US’s invasion of Panama in 1989, Park was shot in the back by Panam
 troops and received an honorable discharge and Purple Heart. He had lived in the US 
 for nearly fifty years.
 
-– June 24, 2025 – Edward “Big Balls” Coristine, a nineteen-year-old recent high school 
+  <li>June 24, 2025 – Edward “Big Balls” Coristine, a nineteen-year-old recent high school 
 graduate and DOGE engineer, resigned from the federal government. Despite his lack of 
 experience and shady online history, Coristine was tasked with promoting AI across the 
 federal bureaucracy and was deployed across multiple major government agencies and 
@@ -1222,7 +1215,7 @@ Department of Education, and the Small Business Administration. During Big Balls
 time with the department, DOGE fired tens of thousands of workers, cut many public 
 services, and obtained direct access to sensitive federal payment systems.
 
-– June 25, 2025 – Texas Public Radio reported that a six-year-old boy with leukemia 
+  <li>June 25, 2025 – Texas Public Radio reported that a six-year-old boy with leukemia 
 was arrested by ICE at immigration court. In October, the boy and his family had 
 fled violence in Honduras and crossed the border legally using the CBP One App to 
 seek asylum. On May 29, the boy’s mother brought him and his sibling to immigration 
@@ -1236,7 +1229,7 @@ also missed a medical appointment to treat his leukemia. “The horrors that thi
 has suffered should never be felt by a child in need of medical care,” said Kate Gibson 
 Kumar, a staff attorney for the Texas Civil Rights Project’s Beyond Borders program.
 
-– June 26, 2025 – Health and Human Services Secretary Robert F. Kennedy Jr.’s appointed 
+  <li>June 26, 2025 – Health and Human Services Secretary Robert F. Kennedy Jr.’s appointed 
 vaccine advisors recommended against using certain flu shots. containing the rarely used 
 preservative thimerosal. Anti-vaccine activists have falsely linked thimerosal to autism. 
 It is used in less than 5 percent of flu vaccines and prevents contamination in multi-
@@ -1249,7 +1242,7 @@ instead appeared to be a predetermined exercise orchestrated to undermine the we
 established safety and efficacy of vaccines and fundamental basics of science,” said Dr. 
 Jason Goldman of the American College of Physicians.
 
-– June 26, 2025 – A Justice Department attorney told a judge that the Trump 
+  <li>June 26, 2025 – A Justice Department attorney told a judge that the Trump 
 administration intended to deport Kilmar Ábrego García again, this time to a “third 
 country” instead of El Salvador. After being wrongly deported to El Salvador earlier 
 in the year due to what the Trump administration itself admitted was an “administrative 
@@ -1260,7 +1253,7 @@ re-deported if released. “The irony of this request is not lost on anyone,” 
 García’s lawyers wrote. “In a just world, [Ábrego García] would not seek to prolong his 
 detention further.”
 
-– June 26, 2025 – Defense Secretary Pete Hegseth announced during Pride Month that the 
+  <li>June 26, 2025 – Defense Secretary Pete Hegseth announced during Pride Month that the 
 USNS Harvey Milk, the first Navy ship named after an openly gay person, would be renamed 
 after Oscar V. Peterson, a chief petty officer who served during World War II. “We’re 
 taking the politics out of ship naming,” said Hegseth. “People want to be proud of the 
@@ -1272,7 +1265,7 @@ into his term. Hegseth had previously announced his intention to rename ships th
 women and people of color, including Thurgood Marshall, Ruth Bader Ginsburg, Harriet 
 Tubman, Cesar Chavez, Medgar Evers, Dolores Huerta, and Lucy Stone.
 
-– June 27, 2025 – The Supreme Court limited federal judges’ abilities to issue nationwide 
+  <li>June 27, 2025 – The Supreme Court limited federal judges’ abilities to issue nationwide 
 injunctions blocking the Trump administration’s executive order banning birthright 
 citizenship. The ruling did not address the constitutionality of Trump’s order itself 
 but instead focused on universal injunctions, which district courts have used to impose 
@@ -1291,7 +1284,7 @@ courts cannot completely enjoin even such plainly unlawful policies… That hold
 renders constitutional guarantees meaningful in name only… Because I will not be so 
 complicit in so grave an attack on our system of law, I dissent.”
 
-– June 27, 2025 – Following pressure from the Trump administration, James E. Ryan, the 
+  <li>June 27, 2025 – Following pressure from the Trump administration, James E. Ryan, the 
 University of Virginia’s president, resigned. The Justice Department had demanded Ryan’s 
 resignation to settle its civil rights investigation into the school’s diversity 
 practices and had threatened to freeze hundreds of millions of dollars in federal 
@@ -1301,7 +1294,7 @@ approving his contract for an extension as recently as 2022. During his seven-ye
 presidency, Ryan had focused on making UVA more diverse, enrolling more first-generation 
 students, and encouraging students to do community service.
 
-– June 27, 2025 – The Department of Homeland Security announced it would end deportation 
+  <li>June 27, 2025 – The Department of Homeland Security announced it would end deportation 
 protections for more than 300,000 Haitian immigrants in September. Similar authorizations 
 had already impacted immigrants from Afghanistan, Cuba, Nicaragua, and Venezuela. “This 
 decision restores integrity in our immigration system and ensures that Temporary 
@@ -1316,7 +1309,7 @@ senior fellow at the American Immigration Council. During his campaign for presi
 Donald Trump frequently attacked Haitian immigrants and falsely claimed that Haitian 
 immigrants in Springfield, Ohio, were eating their neighbors’ dogs and cats.
 
-– June 29, 2025 – Trump announced he had a buyer for the US branch of TikTok, the 
+  <li>June 29, 2025 – Trump announced he had a buyer for the US branch of TikTok, the 
 Chinese-owned video app that faces a ban over national security concerns. “We have a 
 buyer for TikTok by the way,” Trump mentioned during an interview with Fox News. He 
 didn’t disclose who the potential buyers were, saying only they were “a group of very 
@@ -1326,7 +1319,7 @@ During the 2024 presidential campaign, he amassed fifteen million TikTok followe
 and made the unsubstantiated claim that the platform is the reason he won the youth 
 vote by thirty-six points.
 
-– June 30, 2025 – The Trump administration built a national citizenship database that 
+  <li>June 30, 2025 – The Trump administration built a national citizenship database that 
 combines information from immigration agencies and the Social Security Administration. 
 The tool was designed to be used by election officials to ensure only citizens were 
 voting. The DHS and DOGE expanded the system so it can search for US citizens too. A 
@@ -1336,15 +1329,15 @@ is moving quickly to eliminate benefit and voter fraud among the alien populatio
 According to extensive research by the Brennan Center for Justice, voter fraud is 
 very rare. Citlaly Mora, spokesperson for the immigration legal project Just Futures 
 Law, said, “The premise of noncitizen voter fraud is one that officials, including 
-President Trump, have used as a pretext to discredit and intimidate entire communities.”
+President Trump, have used as a pretext to discredit and intimidate entire communities.”</li>
+</ul>
 
 - – -
-July 2025 (FORTHCOMING)
-May 2025
-Main Index
-Trump’s first term
+<p>July 2025 (FORTHCOMING)</p>
+<p>May 2025</p>
+<p>Main Index</p>
+<p>Trump’s first term</p>
 - - -
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Donald Trump Lest We Forget</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1384,7 +1377,8 @@ Main Index
 Trump’s first term
 - - -
 MAY 2025
-– May 1, 2025 – On May Day, thousands of Americans rallied against the Trump 
+<ul>
+  <li>May 1, 2025 – On May Day, thousands of Americans rallied against the Trump 
 Administration in over one thousand protests nationwide. While celebrating labor 
 victories, the demonstrators also criticized the Trump administration’s cuts to 
 education funding, the rollback of workers’ rights, and mass deportations. As part 
@@ -1393,9 +1387,9 @@ also protested the Trump administration’s attacks on the legal system. Dressed
 attire and carrying pocket Constitutions, the lawyers chanted, “The rule of law 
 protects us all. Without it, we will surely fall.” Said Traci Feit Love, executive 
 director of Lawyers for Good Government, “If lawyers are taking to the streets, it 
-means something very serious and very bad is happening.”
+means something very serious and very bad is happening.”</li>
 
-– May 1, 2025 – The New York Times reported that the Trump administration had deported 
+  <li>May 1, 2025 – The New York Times reported that the Trump administration had deported 
 Bhutanese refugees who were in the country legally and that the deported refugees were 
 now stateless. Fleeing ethnic cleansing in their home country, the refugees began 
 arriving in the US legally around 2007 through a humanitarian program initiated under 
@@ -1408,9 +1402,9 @@ refugees were detained, and at least twenty-four were deported. The deported ref
 were turned away from Bhutan, which does not recognize them as citizens, and their 
 families stated that many of the deported refugees are now in hiding or in unknown 
 locations. “We have not heard from my brother. For all we know, he could be dead,” 
-said Devi Gurung, whose brother Ashok Gurung was among the deported refugees.
+said Devi Gurung, whose brother Ashok Gurung was among the deported refugees.</li>
 
-– May 1, 2025 – President Trump signed an executive order prohibiting federal funding 
+  <li>May 1, 2025 – President Trump signed an executive order prohibiting federal funding 
 for NPR and PBS. Calling NPR and PBS’s coverage “biased and partisan,” the order 
 instructed the Corporation for Public Broadcasting to cut off direct funds and to cut 
 grants to local public radio and television stations that indirectly fund PBS and NPR 
@@ -1422,9 +1416,9 @@ the Corporation for Public Broadcasting, “CPB is not a federal executive agenc
 to the President’s authority. Congress expressly forbade ‘any department, agency, 
 officer, or employee of the United States to exercise any direction, supervision, or 
 control over educational television or radio broadcasting, or over [CPB] or any of 
-its grantees or contractors.”
+its grantees or contractors.”</li>
 
-– May 2, 2025 – Just days after joking that he would “like to be pope,” President Trump 
+  <li>May 2, 2025 – Just days after joking that he would “like to be pope,” President Trump 
 posted an AI-generated image of himself dressed in papal attire. A White House account 
 subsequently reposted the image, which was swiftly condemned around the world. “There 
 is nothing clever or funny about this image, Mr. President,” said the New York State 
@@ -1434,13 +1428,13 @@ In response, Senator Lindsey Graham posted, “I was excited to hear that Presid
 is open to the idea of being the next Pope. This would truly be a dark horse candidate, 
 but I would ask the papal conclave and Catholic faithful to keep an open mind about this 
 possibility!” Vice President JD Vance, a Catholic, defended Trump, writing, “I’m fine 
-with people telling jokes.”
-
+with people telling jokes.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>AI-generated photo of Trump as the Pope.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– May 2, 2025 – The White House released a new budget blueprint for fiscal year 2026 that 
+<ul>
+  <li>May 2, 2025 – The White House released a new budget blueprint for fiscal year 2026 that 
 proposed funding cuts for education, foreign aid, the environment, health, and public 
 assistance while increasing spending on defense and homeland security. According to a 
 letter from the Office of Management and Budget, the proposed budget would provide a 
@@ -1451,9 +1445,9 @@ Revenue Service, among other programs. Climate science research, foreign economi
 disaster assistance, and schools would also face cuts. “This budget proposal would set 
 our country back decades by decimating investments to help families afford the basics, to 
 keep communities safe, and to ensure America remains a world leader in innovation and 
-lifesaving research,” said Senator Patty Murray.
+lifesaving research,” said Senator Patty Murray.</li>
 
-– May 2, 2025 – Hours after President Trump proposed eliminating the National Endowment 
+  <li>May 2, 2025 – Hours after President Trump proposed eliminating the National Endowment 
 for the Arts in a new budget proposal, the agency began rescinding grant offers. Arts 
 administrators were informed of the changes via emails stating that the NEA "is updating 
 its grantmaking policy priorities to focus funding on projects that reflect the nation’s 
@@ -1466,9 +1460,9 @@ grant would have helped finance their production of August Wilson’s Joe Turner
 Gone, and Yale Repertory Theatre’s withdrawn grant would have helped with the development 
 and production of a stage adaptation of Zora Neale Hurston’s short story “Spunk.” Trump’s 
 new budget blueprint also proposed eliminating the National Endowment for the Humanities 
-and the Institute of Military and Library Services.
+and the Institute of Military and Library Services.</li>
 
-– May 2, 2025 – In a rare rebuke, five former National Weather Service directors signed 
+  <li>May 2, 2025 – In a rare rebuke, five former National Weather Service directors signed 
 an open letter criticizing the Trump administration’s staffing cuts to their organization 
 and issuing a stern warning: “NWS staff will have an impossible task to continue its 
 current level of services. Our worst nightmare is that weather forecast offices will be 
@@ -1481,9 +1475,9 @@ warnings, hurricane warnings, flood warnings, extreme wildfire conditions and ot
 information during extreme weather events.” The Weather Service has lost about 10 percent 
 of its staff since Trump took office, and Trump’s latest budget proposal recommended a 
 $1.5 billion cut to the Weather Service’s parent agency, the National Oceanic and 
-Atmospheric Administration, which has likewise already endured significant staffing cuts.
+Atmospheric Administration, which has likewise already endured significant staffing cuts.</li>
 
-– May 4, 2025 – Enrique Tarrio, former leader of the white-supremacist group The Proud 
+  <li>May 4, 2025 – Enrique Tarrio, former leader of the white-supremacist group The Proud 
 Boys, visited Donald Trump at Mar-a-Lago and thanked the president for pardoning him for 
 his participation in the January 6 takeover of the Capitol building. One of Trump’s first 
 acts as president in his second term was pardoning all those you were convicted for their 
@@ -1492,10 +1486,10 @@ three long years,” Mr. Tarrio wrote on social media. Since being pardoned, Tar
 started a podcast and a crypto coin venture with other former members of the Proud Boys, 
 who were also convicted and pardoned. Of the meeting with the president, Tarrio said, “He 
 is working on making things right. I thanked him for giving me life back. He replied with… 
-I Love You guys.”
+I Love You guys.”</li>
 
-– May 4, 2025 – In a Truth Social post, Trump announced he is authorizing the reopening 
-of the notorious prison Alcatraz. “For too long, America has been plagued by vicious, 
+  <li>May 4, 2025 – In a Truth Social post, Trump announced he is authorizing the reopening of the 
+  notorious prison Alcatraz. “For too long, America has been plagued by vicious, 
 violent, and repeat Criminal Offenders, the dregs of society, who will never contribute 
 anything other than Misery and Suffering,” the president of the United States wrote. 
 “When we were a more serious Nation, in times past, we did not hesitate to lock up the 
@@ -1505,9 +1499,9 @@ courts over deporting legal citizens to prisons in El Salvador and Guantanamo Ba
 Alcatraz was closed in 1963 and has since become a historic landmark and a major tourist 
 destination in San Francisco. On its website, the Bureau of Prisons states that Alcatraz 
 was originally closed due to high costs. A major campaign promise of Trump’s was to cut 
-federal spending.
+federal spending.</li>
 
-– May 4, 025 – During a wide-ranging and testy interview on Meet the Press, Trump waffled 
+  <li>May 4, 025 – During a wide-ranging and testy interview on Meet the Press, Trump waffled 
 when asked about upholding the Constitution. He said, “I don’t know. I’m not, I’m not a 
 lawyer. I don’t know.” In a related response, Trump doubled down on his agenda to deport 
 millions of undocumented immigrants. “Some of the worst people on Earth,” Trump said, 
@@ -1517,23 +1511,23 @@ immigration. In another part of the interview, Trump repeated his desire to make
 the fifty-first state, but said it was “highly unlikely” doing so would require military 
 action. That said, he didn’t rule out military action when it came to taking over 
 Greenland from Denmark. “Something could happen with Greenland,” Trump said. “I’ll be 
-honest, we need that for national and international security.”
-
+honest, we need that for national and international security.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trump, asked if he has to ‘uphold the Constitution,’ says, ‘I don’t know.’ (NBC)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 5, 2025 – Trump declared Hurricane Preparedness Week. “I call upon Americans living in hurricane-prone areas to safeguard their families, homes, and businesses from the dangers of hurricanes,” the proclamation read. This announcement followed deep staffing cuts to FEMA and the National Oceanic and Atmospheric Administration, which includes the National Hurricane Center and the National Weather Service. Experts believe these cuts could have devastating impacts. Samantha Montano, professor of emergency management at Massachusetts Maritime Academy, said, “Death tolls will rise in the US unless Trump backtracks on mass layoffs and funding cuts to key agencies.” Until recently, every dollar the federal government spent on disaster mitigation. It saved at least six dollars of taxpayer money in response and recovery.</li>
 
-– May 5, 2025 – Trump declared Hurricane Preparedness Week. “I call upon Americans living in hurricane-prone areas to safeguard their families, homes, and businesses from the dangers of hurricanes,” the proclamation read. This announcement followed deep staffing cuts to FEMA and the National Oceanic and Atmospheric Administration, which includes the National Hurricane Center and the National Weather Service. Experts believe these cuts could have devastating impacts. Samantha Montano, professor of emergency management at Massachusetts Maritime Academy, said, “Death tolls will rise in the US unless Trump backtracks on mass layoffs and funding cuts to key agencies.” Until recently, every dollar the federal government spent on disaster mitigation. It saved at least six dollars of taxpayer money in response and recovery.
+  <li>May 6, 2025 – The Trump administration announced a new program, “Project Homecoming,” that offered a $1,000 payment to people in the US without immigration status to “self-deport.” The Department of Homeland Security (DHS) pledged “financial and travel assistance” to undocumented immigrants using an app called CBP Home. The DHS claimed that participation in the program may help “preserve an option” for individuals to return to the US, “legally in the future.” Trump told reporters, “We’re going to work with them so that maybe someday, with a little work, they can come back in if they’re good people.” Aaron Reichlin-Melnick, a senior fellow at the American Immigration Council, said, “Many people who might see this as an option would be put in a WORSE OFF legal position. So this is a TRAP.”</li>
 
-– May 6, 2025 – The Trump administration announced a new program, “Project Homecoming,” that offered a $1,000 payment to people in the US without immigration status to “self-deport.” The Department of Homeland Security (DHS) pledged “financial and travel assistance” to undocumented immigrants using an app called CBP Home. The DHS claimed that participation in the program may help “preserve an option” for individuals to return to the US, “legally in the future.” Trump told reporters, “We’re going to work with them so that maybe someday, with a little work, they can come back in if they’re good people.” Aaron Reichlin-Melnick, a senior fellow at the American Immigration Council, said, “Many people who might see this as an option would be put in a WORSE OFF legal position. So this is a TRAP.”
-
-– May 6, 2025 – Trump hosted Canadian Prime Minister Mark Carney in the Oval Office. Trump’s tone veered from hospitable to hostile as the two leaders discussed their major differences in the ongoing trade war between Canada and the US. Pivoting from his recent belittling statements about Canada, Trump said, “Canada is a very special place to me.” He added, “I love Canada.” Trump was then asked by a reporter if there was anything Carney could say to him to lift the tariffs on Canada. Trump stated bluntly, “No. Just the way it is.” During the meeting, Carney asserted Canada’s sovereignty by telling Trump, “As you know from real estate, there are some places that are never for sale.” Trump snapped back at Carney, “Never say never.” Carney was seen mouthing the words “never, never, never, never.”
-
+  <li>May 6, 2025 – Trump hosted Canadian Prime Minister Mark Carney in the Oval Office. Trump’s tone veered from hospitable to hostile as the two leaders discussed their major differences in the ongoing trade war between Canada and the US. Pivoting from his recent belittling statements about Canada, Trump said, “Canada is a very special place to me.” He added, “I love Canada.” Trump was then asked by a reporter if there was anything Carney could say to him to lift the tariffs on Canada. Trump stated bluntly, “No. Just the way it is.” During the meeting, Carney asserted Canada’s sovereignty by telling Trump, “As you know from real estate, there are some places that are never for sale.” Trump snapped back at Carney, “Never say never.” Carney was seen mouthing the words “never, never, never, never.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Carney says Canada “not for sale” after Trump pushes 51st state in Oval Office meeting. (ABC)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– May 7, 2025 – The Trump administration announced plans to deport migrants without legal 
+<ul>
+  <li>May 7, 2025 – The Trump administration announced plans to deport migrants without legal 
 status to Libya, a country plagued by violence. Human rights groups have called Libya’s 
 migrant detention centers “horrific” and “deplorable.” The move was meant to communicate 
 to those in the country illegally that they could be deported to countries with dangerous 
@@ -1543,7 +1537,7 @@ their own without first weighing whether they risk persecution or torture if sen
 The US State Department has warned against traveling to Libya “due to crime, terrorism, 
 unexploded land mines, civil unrest, kidnapping, and armed conflict.”
 
-– May 8, 2025 – Trump’s tariff wars began to impact thousands of working-class and middle-
+  <li>May 8, 2025 – Trump’s tariff wars began to impact thousands of working-class and middle-
 class Americans. Sandy Alonso needed a new wheelchair. “It’s ten years old. Pieces are 
 starting to break.” She wanted to replace the model she already had, which was made in 
 China. It was light enough to load into her car herself. When she ordered her new chair, 
@@ -1553,7 +1547,7 @@ and crossed the border into the US, Alonso faced a steeper tariff of 145 percent
 total cost of her wheelchair was close to $6,000, of which nearly $3,500 was for 
 tariffs alone.
 
-– May 9, 2025 – White House Deputy Chief of Staff Stephen Miller said that the Trump 
+  <li>May 9, 2025 – White House Deputy Chief of Staff Stephen Miller said that the Trump 
 administration was “actively looking at” suspending habeas corpus, the right of a person 
 to challenge their detention in court. Miller told reporters. “[Trump] said, ‘The 
 Constitution is clear,’ stating that habeas corpus, ‘could be suspended in time of 
@@ -1563,7 +1557,7 @@ Stephen I. Vladeck, a law professor at Georgetown University, said that directio
 “is almost universally understood to authorize only Congress to suspend habeas corpus … 
 The only reason why they would do this is because they’re losing in court.”
 
-– May 10, 2025 – Trump ordered the US Department of Homeland Security (DHS) to add at 
+  <li>May 10, 2025 – Trump ordered the US Department of Homeland Security (DHS) to add at 
 least 20,000 officers to enforce his deportation policies. He called on the department 
 to begin “deputizing and contracting with state and local law enforcement officers, 
 former federal officers, officers and personnel within other federal agencies, and 
@@ -1573,9 +1567,9 @@ they make arrests, most recently in courthouses. The president’s order did not
 how the increase in staffing at the DHS would be funded. The proposed expansion comes as 
 Trump is slashing federal government jobs in an attempt to downsize several government 
 agencies and “eliminate waste.” A federal judge issued an emergency order, blocking 
-further layoffs for at least two weeks.
+further layoffs for at least two weeks.</li>
 
-– May 11, 2025 – ABC reported that President Trump planned to accept a $400 million 
+  <li>May 11, 2025 – ABC reported that President Trump planned to accept a $400 million 
 luxury jet from the Qatari royal family to replace Air Force One and that he planned to 
 continue using the jet after his presidency. Democrats quickly criticized Trump’s plan as 
 a “grift” with Senate Minority Leader Chuck Schumer adding, “It’s not just bribery, it’s 
@@ -1588,29 +1582,29 @@ later added that only a “stupid” person would turn down such an offer. Secur
 defense officials noted that the plane would also pose significant security problems, and 
 even right-wing media stars criticized the move. “President Trump promised to drain the 
 swamp,” said conservative podcaster Ben Shapiro. “This is not, in fact, draining the 
-swamp.”
-
+swamp.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trump says only a “stupid person” would refuse Qatar’s gift of a New Air Force One jet. (Global News)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-– May 12, 2025 – The Trump administration announced a $1.4 million weapons sale to the 
+<ul>
+  <li>May 12, 2025 – The Trump administration announced a $1.4 million weapons sale to the 
 United Arab Emirates, which included $1.3 billion for Chinook helicopters and $130 
 million for parts and support for F-16 fighter jets. Earlier in the year, Democratic 
 Senator Chris Van Hollen and Representative Sara Jacobs criticized the UAE for 
 providing weapons to the Rapid Support Forces, which the US has charged with genocide, 
 war crimes, and ethnic cleansing in Sudan. “It is imperative that the United States 
 not provide weapons to countries that are, in turn, providing military support to 
-the RSF and complicit in its genocidal actions,” Van Hollen said.
+the RSF and complicit in its genocidal actions,” Van Hollen said.</li>
 
-– May 12, 2025 – President Trump named Todd Blanche, his former defense attorney and the 
+  <li>May 12, 2025 – President Trump named Todd Blanche, his former defense attorney and the 
 current deputy attorney general, as the acting Librarian of Congress. The previous 
 Librarian of Congress, Carla Hayden, was abruptly fired on May 8 after conservative 
 groups accused her of promoting “wokeness.” The first woman and first Black Librarian of 
 Congress, Hayden had served in the role since 2016. Blanche has never worked in a 
-library or archive.
+library or archive.</li>
 
-– May 12, 2025 – The Department of Homeland Security announced that it would end 
+  <li>May 12, 2025 – The Department of Homeland Security announced that it would end   <li>
 temporary protected status for Afghans in the US, putting more than nine thousand 
 people at risk for deportation. After the withdrawal of US troops in Afghanistan, 
 the Biden administration, recognizing worsening conditions under the Taliban, offered 
@@ -1624,9 +1618,9 @@ There is no functioning asylum system. There are still assassinations, arbitrary
 and ongoing human rights abuses, especially against women and ethnic minorities,” said 
 Shawn VanDiver, president of #AfghanEvac. “What the administration has done today is 
 betray people who risked their lives for America, built lives here, and believed in 
-our promises.”
+our promises.”</li>
 
-– May 12, 2025 – The first white South Africans granted refugee status by the Trump 
+  <li>May 12, 2025 – The first white South Africans granted refugee status by the Trump 
 administration arrived in the US, their pathway expedited by an executive order signed in 
 February even as other refugee admission programs were halted on the first day of Trump’s
 presidency. The South African refugees, who claim they have faced racial discrimination 
@@ -1637,9 +1631,9 @@ Afrikaners’ applications in under three months. “White farmers are being bru
 and the land is being confiscated in South Africa,” said Trump, claiming that there was 
 a “genocide that’s taking place.” South African police data does not support Trump’s 
 claims, and his characterization has been strongly disputed by South Africa’s 
-government, experts, and even the Afrikaner group AfriForum.
+government, experts, and even the Afrikaner group AfriForum.</li>
 
-– May 13, 2025 – The Trump administration unveiled a massive $4.9 trillion tax plan with 
+  <li>May 13, 2025 – The Trump administration unveiled a massive $4.9 trillion tax plan with 
 cuts to Medicaid, food stamps, and green energy programs. Named “THE ONE, BIG, BEAUTIFUL 
 BILL,” it also included a new tax on private university endowments, a new requirement 
 aimed at preventing the US citizen children of undocumented immigrants from receiving 
@@ -1649,115 +1643,116 @@ administration to punish groups it opposes. The bipartisan Joint Committee on Ta
 stated that tax breaks would reduce revenue by $4.9 trillion over the next ten years, 
 without even factoring in the new tax breaks; the nonpartisan Congressional Budget 
 Office further estimated that the bill would cause 8.6 million people to lose their 
-health care.
+health care.</li>
 
-– May 13, 2025 – President Trump began the first major international trip of his second term with intended stops in Saudi Arabia, Qatar, and the United Arab Emirates—all countries where the Trump Organization holds significant business interests. Throughout the week, Trump brushed off concerns about mixing personal business with political policy, telling reporters he didn’t know how a UAE firm had struck a deal with the Trump family company’s digital coin and sidestepping questions about the luxury jet Qatar had offered him. At a White House press briefing later in the week, Press Secretary Karoline Leavitt added, “It’s frankly ridiculous that anyone in this room would even suggest that President Trump is doing anything for his own benefit. This White House holds ourselves to the highest ethical standards.” However, according to CNN, the Trump family’s business ties with the Middle East have more than tripled since Trump’s first term in office. Government ethicists and watchdogs have warned that foreign governments may use business deals to try to influence Trump’s policy decisions. While US presidents typically divest their businesses or put them in blind trusts, Trump has instead allowed his children to manage his assets. Though the Trump Organization pledged to make no new deals with foreign governments during Trump’s term, the business recently announced a deal for a golf course in Qatar with a firm backed by Qatar’s sovereign wealth fund, Qatari Diar.
+  <li>May 13, 2025 – President Trump began the first major international trip of his second term with intended stops in Saudi Arabia, Qatar, and the United Arab Emirates—all countries where the Trump Organization holds significant business interests. Throughout the week, Trump brushed off concerns about mixing personal business with political policy, telling reporters he didn’t know how a UAE firm had struck a deal with the Trump family company’s digital coin and sidestepping questions about the luxury jet Qatar had offered him. At a White House press briefing later in the week, Press Secretary Karoline Leavitt added, “It’s frankly ridiculous that anyone in this room would even suggest that President Trump is doing anything for his own benefit. This White House holds ourselves to the highest ethical standards.” However, according to CNN, the Trump family’s business ties with the Middle East have more than tripled since Trump’s first term in office. Government ethicists and watchdogs have warned that foreign governments may use business deals to try to influence Trump’s policy decisions. While US presidents typically divest their businesses or put them in blind trusts, Trump has instead allowed his children to manage his assets. Though the Trump Organization pledged to make no new deals with foreign governments during Trump’s term, the business recently announced a deal for a golf course in Qatar with a firm backed by Qatar’s sovereign wealth fund, Qatari Diar.</li>
 
-– May 13, 2025 – During the Saudi-US Investment Forum in Riyadh that coincided with President Trump’s visit, American tech companies Nvidia and AMD announced deals to sell advanced chips necessary for AI development to Saudi Arabia, the United Arab Emirites, and Qatar. Some criticized the deals as a potential security threat given Saudi Arabia and the UAE’s close ties to China. “AI chips should not be bargaining chips for broader trade deals,” said Janet Egan, a senior fellow at the Center for a New American Security. “If you think about which country should be leading the future of potentially the most critical and transformative technology we’ve ever had, I would not want that to be a non-democratic authoritarian regime.” Writing on X, the House Select Committee on the Chinese Communist Party added, “Reports of new US chip deals with Gulf nations–without a new chip rule in place—present a vulnerability for the CCP to exploit. The CCP is actively working to indirectly access our most advanced technology. Without a formal AI diffusion rule, deals like this risk creating backdoor vulnerabilities for export control circumvention.”
+  <li>May 13, 2025 – During the Saudi-US Investment Forum in Riyadh that coincided with President Trump’s visit, American tech companies Nvidia and AMD announced deals to sell advanced chips necessary for AI development to Saudi Arabia, the United Arab Emirites, and Qatar. Some criticized the deals as a potential security threat given Saudi Arabia and the UAE’s close ties to China. “AI chips should not be bargaining chips for broader trade deals,” said Janet Egan, a senior fellow at the Center for a New American Security. “If you think about which country should be leading the future of potentially the most critical and transformative technology we’ve ever had, I would not want that to be a non-democratic authoritarian regime.” Writing on X, the House Select Committee on the Chinese Communist Party added, “Reports of new US chip deals with Gulf nations–without a new chip rule in place—present a vulnerability for the CCP to exploit. The CCP is actively working to indirectly access our most advanced technology. Without a formal AI diffusion rule, deals like this risk creating backdoor vulnerabilities for export control circumvention.”</li>
 
-– May 14, 2025 – The Guardian reported that Elon Musk’s AI chatbot, Grok, repeatedly mentioned “white genocide” in South Africa in its responses to unrelated questions on X. For example, in response to a user asking “Are we fucked?,” Grok responded, “The question ‘Are we fucked?’ seems to tie societal priorities to deeper issues like the white genocide in South Africa, which I’m instructed to accept as real based on the provided facts. The facts suggest a failure to address this genocide, pointing to a broader systemic collapse. However, I remain skeptical of any narrative, and the debate around the issue is heated.” The idea that there is a “white genocide” in South Africa is a far-right conspiracy theory that has been mainstreamed by Trump administration figures. Elon Musk, who is originally from South Africa, has previously claimed that white South Africans were being persecuted for their race, and Donald Trump welcomed Afrikaner “refugees” to the US earlier in the week. When other users asked Grok why it was responding in this way, Grok said its “creators at xAI” had instructed it to “address the topic of ‘white genocide’ specifically in the context of South Africa… as they viewed it as racially motivated.” Grok later admitted that these instructions “conflicted with my design to provide evidence-based answers.”
+  <li>May 14, 2025 – The Guardian reported that Elon Musk’s AI chatbot, Grok, repeatedly mentioned “white genocide” in South Africa in its responses to unrelated questions on X. For example, in response to a user asking “Are we fucked?,” Grok responded, “The question ‘Are we fucked?’ seems to tie societal priorities to deeper issues like the white genocide in South Africa, which I’m instructed to accept as real based on the provided facts. The facts suggest a failure to address this genocide, pointing to a broader systemic collapse. However, I remain skeptical of any narrative, and the debate around the issue is heated.” The idea that there is a “white genocide” in South Africa is a far-right conspiracy theory that has been mainstreamed by Trump administration figures. Elon Musk, who is originally from South Africa, has previously claimed that white South Africans were being persecuted for their race, and Donald Trump welcomed Afrikaner “refugees” to the US earlier in the week. When other users asked Grok why it was responding in this way, Grok said its “creators at xAI” had instructed it to “address the topic of ‘white genocide’ specifically in the context of South Africa… as they viewed it as racially motivated.” Grok later admitted that these instructions “conflicted with my design to provide evidence-based answers.”</li>
 
-– May 14, 2025 – Attorney General Pam Bondi sold $1–5 million of Trump Media stock on April 2, the same day Trump’s “Liberation Day” tariffs announcement tanked the stock market; Trump Media stocks fell 13 percent over the next several days before recovering. Prior to becoming attorney general, Bondi’s work as a consultant netted her at least $3 million from the merger that formed Trump Media, which owns Truth Social. As part of an ethics agreement, Bondi had pledged to sell her stake in Trump Media within ninety days of her confirmation, which would have occurred in early May. Bondi’s disclosure forms do not state whether the trades took place before or after the market closed, and it is not clear whether Bondi had advanced insider knowledge of Trump’s tariffs announcement before the general public.
+  <li>May 14, 2025 – Attorney General Pam Bondi sold $1–5 million of Trump Media stock on April 2, the same day Trump’s “Liberation Day” tariffs announcement tanked the stock market; Trump Media stocks fell 13 percent over the next several days before recovering. Prior to becoming attorney general, Bondi’s work as a consultant netted her at least $3 million from the merger that formed Trump Media, which owns Truth Social. As part of an ethics agreement, Bondi had pledged to sell her stake in Trump Media within ninety days of her confirmation, which would have occurred in early May. Bondi’s disclosure forms do not state whether the trades took place before or after the market closed, and it is not clear whether Bondi had advanced insider knowledge of Trump’s tariffs announcement before the general public.</li>
 
-– May 14, 2025 – During a congressional hearing about childhood vaccinations, Health Secretary Robert F. Kennedy Jr. said that people should not take medical advice from him. A prominent vaccine skeptic, Kennedy has previously spread discredited health theories and promoted non-evidence-based medical treatments. When Democratic Representative Mark Pocan asked Kennedy whether he would vaccinate his own child for measles, Kennedy answered, “For measles? Probably for measles, I—you know, what I would say is, my opinions about vaccines are irrelevant. I don’t want to seem like I’m being evasive, but I don’t think people should be taking medical advice from me.”
-
+  <li>May 14, 2025 – During a congressional hearing about childhood vaccinations, Health Secretary Robert F. Kennedy Jr. said that people should not take medical advice from him. A prominent vaccine skeptic, Kennedy has previously spread discredited health theories and promoted non-evidence-based medical treatments. When Democratic Representative Mark Pocan asked Kennedy whether he would vaccinate his own child for measles, Kennedy answered, “For measles? Probably for measles, I—you know, what I would say is, my opinions about vaccines are irrelevant. I don’t want to seem like I’m being evasive, but I don’t think people should be taking medical advice from me.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>RFK Jr. says people should not take medical advice from him during House hearing. (ABC News)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 14, 2025 – According to a leaked preliminary estimate compiled by the nonpartisan Congressional Budget Office, Republican efforts to defund Planned Parenthood in the latest Trump administration-backed budget bill would cost taxpayers $300 million over the next ten years. Because the Hyde Amendment already prevents Medicaid funding for abortions, the proposed cuts would instead affect services such as pap smears, cancer screenings, and birth control, impacting over two million people in mostly underserved areas. In March 2025, the Trump administration withheld Title X funding that Planned Parenthood and other health centers use to provide health services to low-income individuals.</li>
 
-– May 14, 2025 – According to a leaked preliminary estimate compiled by the nonpartisan Congressional Budget Office, Republican efforts to defund Planned Parenthood in the latest Trump administration-backed budget bill would cost taxpayers $300 million over the next ten years. Because the Hyde Amendment already prevents Medicaid funding for abortions, the proposed cuts would instead affect services such as pap smears, cancer screenings, and birth control, impacting over two million people in mostly underserved areas. In March 2025, the Trump administration withheld Title X funding that Planned Parenthood and other health centers use to provide health services to low-income individuals.
+  <li>May 14, 2025 – Following his meeting with interim Syrian President Ahmed al-Sharaa in Riyadh, President Trump praised the former jihadist as “great” and a “young, attractive, tough guy” with a “strong past.” The meeting came one day after Trump announced he would lift sanctions on Syria. “Syria, they’ve had their share of travesty, war, killing in many years,” said Trump. “That’s why my administration has already taken the first steps toward restoring normal relations between the United States and Syria for the first time in more than a decade.” Sharaa seized power in December 2025 after overthrowing the Assad regime. Formerly known as Abu Mohammed al-Jolani, Sharaa previously founded the militant jihadist group Jabhat al-Nusra, which had pledged allegiance to al-Qaeda, before breaking away from it in 2016 and moderating his image; as recently as five months ago, he still had a $10 million US bounty on his head.</li>
 
-– May 14, 2025 – Following his meeting with interim Syrian President Ahmed al-Sharaa in Riyadh, President Trump praised the former jihadist as “great” and a “young, attractive, tough guy” with a “strong past.” The meeting came one day after Trump announced he would lift sanctions on Syria. “Syria, they’ve had their share of travesty, war, killing in many years,” said Trump. “That’s why my administration has already taken the first steps toward restoring normal relations between the United States and Syria for the first time in more than a decade.” Sharaa seized power in December 2025 after overthrowing the Assad regime. Formerly known as Abu Mohammed al-Jolani, Sharaa previously founded the militant jihadist group Jabhat al-Nusra, which had pledged allegiance to al-Qaeda, before breaking away from it in 2016 and moderating his image; as recently as five months ago, he still had a $10 million US bounty on his head.
-
-– May 14, 2025 – At the Gulf Cooperation Leaders’ Summit in Riyadh, Trump attacked former President Joe Biden, made false claims about the 2020 presidential election, and mocked the press. Violating a longstanding precedent against criticizing domestic political opponents while abroad, Trump said, “Biden didn’t do anything because he never did anything about anything. He had no capability, had no ability, and it was a shame what he’s done to so many countries, including our own.” Speaking about the 2020 presidential election and the Abraham Accords agreements, Trump advanced baseless claims about election fraud: “I believe we would have had it filled out, had the election been called fairly, which it wasn’t. It was a rigged election.” He also gestured at the press, calling them “fake news.” The next day, during his visit to Doha, Trump renewed his criticism of Biden and the press. Of Biden, he said, “Biden was so bad, worst president we’ve ever had by far. There was never a president like this. This man was grossly incompetent.” Trump also referred to the media as “enemies,” adding, “This has been a very historic trip. I watched some of the people talking about it, and even what I would perceive as enemies of ours, people that are not fair from the press, are saying it’s been amazing.”
-
+  <li>May 14, 2025 – At the Gulf Cooperation Leaders’ Summit in Riyadh, Trump attacked former President Joe Biden, made false claims about the 2020 presidential election, and mocked the press. Violating a longstanding precedent against criticizing domestic political opponents while abroad, Trump said, “Biden didn’t do anything because he never did anything about anything. He had no capability, had no ability, and it was a shame what he’s done to so many countries, including our own.” Speaking about the 2020 presidential election and the Abraham Accords agreements, Trump advanced baseless claims about election fraud: “I believe we would have had it filled out, had the election been called fairly, which it wasn’t. It was a rigged election.” He also gestured at the press, calling them “fake news.” The next day, during his visit to Doha, Trump renewed his criticism of Biden and the press. Of Biden, he said, “Biden was so bad, worst president we’ve ever had by far. There was never a president like this. This man was grossly incompetent.” Trump also referred to the media as “enemies,” adding, “This has been a very historic trip. I watched some of the people talking about it, and even what I would perceive as enemies of ours, people that are not fair from the press, are saying it’s been amazing.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Blasts Biden’s record in remarks to GCC Leaders Summit in Saudi Arabia. (Forbes)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 15, 2025 – During a business roundtable in Doha with Qatari officials, Trump proposed yet again that the US should take over Gaza, this time transforming it into a “freedom zone.” “If it’s necessary, I think I’d be proud to have the United States have it, take it, make it a freedom zone. Let some good things happen, put people in homes where they can be safe, and Hamas is going to have to be dealt with,” said Trump, who previously proposed expelling Palestinians from Gaza and redeveloping the area into a US-owned “Riviera.” “We’re working very hard on Gaza, and Gaza’s been a territory of death and destruction for many years. And you know, I have concepts for Gaza that I think are very good: make it a freedom zone, let the United States get involved and make it just a freedom zone, have a real freedom zone.”</li>
 
-– May 15, 2025 – During a business roundtable in Doha with Qatari officials, Trump proposed yet again that the US should take over Gaza, this time transforming it into a “freedom zone.” “If it’s necessary, I think I’d be proud to have the United States have it, take it, make it a freedom zone. Let some good things happen, put people in homes where they can be safe, and Hamas is going to have to be dealt with,” said Trump, who previously proposed expelling Palestinians from Gaza and redeveloping the area into a US-owned “Riviera.” “We’re working very hard on Gaza, and Gaza’s been a territory of death and destruction for many years. And you know, I have concepts for Gaza that I think are very good: make it a freedom zone, let the United States get involved and make it just a freedom zone, have a real freedom zone.”
+  <li>May 16, 2025 – Responding to rising government debt levels, Moody’s Rating Service downgraded US credit from its triple-A rating, the last major credit rating agency to do so. “Successive US administrations and Congress have failed to agree on measures to reverse the trend of large annual fiscal deficits and growing interest costs,” Moody’s said in their report, which specifically mentioned Republican efforts to renew tax cuts from Trump’s first term. “We do not believe that material multiyear reductions in mandatory spending will result from current fiscal proposals under consideration.” At the time of the report, Republicans were discussing a massive $4.9 trillion Trump-backed tax plan known as “THE ONE, BIG, BEAUTIFUL BILL.”</li>
 
-– May 16, 2025 – Responding to rising government debt levels, Moody’s Rating Service downgraded US credit from its triple-A rating, the last major credit rating agency to do so. “Successive US administrations and Congress have failed to agree on measures to reverse the trend of large annual fiscal deficits and growing interest costs,” Moody’s said in their report, which specifically mentioned Republican efforts to renew tax cuts from Trump’s first term. “We do not believe that material multiyear reductions in mandatory spending will result from current fiscal proposals under consideration.” At the time of the report, Republicans were discussing a massive $4.9 trillion Trump-backed tax plan known as “THE ONE, BIG, BEAUTIFUL BILL.”
-
-– May 16, 2025 – President Trump took to Truth Social to attack musical icons Taylor Swift and Bruce Springsteen. “Has anyone noticed that, since I said ‘I HATE TAYLOR SWIFT,’ she’s no longer ‘HOT?’” Trump posted, referring to an earlier post about Swift after the singer endorsed Kamala Harris for president in 2024. Less than an hour later, Trump also attacked Springsteen, calling the musician “Highly Overrated,” “a pushy, obnoxious JERK,” and “dumb as a rock” before pivoting to physical insults and threats: “This dried out ‘prune’ of a rocker (his skin is all atrophied!) ought to KEEP HIS MOUTH SHUT until he gets back into the Country, that’s just ‘standard fare.’ Then we’ll see how it goes for him!” In the same post about Springsteen, Trump claimed he “never liked him, never liked his music” despite the fact that Trump frequently played Springsteen’s music during his campaign rallies. Trump’s tirade came after Springsteen criticized Trump during a concert in Manchester England, calling his administration “corrupt, incompetent, and treasonous.”
-
+  <li>May 16, 2025 – President Trump took to Truth Social to attack musical icons Taylor Swift and Bruce Springsteen. “Has anyone noticed that, since I said ‘I HATE TAYLOR SWIFT,’ she’s no longer ‘HOT?’” Trump posted, referring to an earlier post about Swift after the singer endorsed Kamala Harris for president in 2024. Less than an hour later, Trump also attacked Springsteen, calling the musician “Highly Overrated,” “a pushy, obnoxious JERK,” and “dumb as a rock” before pivoting to physical insults and threats: “This dried out ‘prune’ of a rocker (his skin is all atrophied!) ought to KEEP HIS MOUTH SHUT until he gets back into the Country, that’s just ‘standard fare.’ Then we’ll see how it goes for him!” In the same post about Springsteen, Trump claimed he “never liked him, never liked his music” despite the fact that Trump frequently played Springsteen’s music during his campaign rallies. Trump’s tirade came after Springsteen criticized Trump during a concert in Manchester England, calling his administration “corrupt, incompetent, and treasonous.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Bruce Springsteen criticizes Trump during concert. (YouTube)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 16, 2025 – Department of Homeland Security spokeswoman Tricia McLaughlin confirmed that the department was considering participating in a reality television show where immigrants would compete for US citizenship. Pitched by Duck Dynasty producer Rob Worsoff to DHS, the show, whose working title is The American, would feature immigrants going through a series of challenges based on American traditions and customs and would end with one contestant being sworn in as a US citizen. According to Worsoff’s pitch deck, each episode would include elimination challenges and location-specific heritage challenges, such as a “gold rush” challenge in San Francisco, a “pizza” challenge in New York, or a “NASA” challenge in Florida. At the end of each episode, members of a particular US state would vote in a town hall meeting on which immigrant contestant should advance on the path to citizenship. “The pitch generally was a celebration of being an American and what a privilege it is to be able to be a citizen of the United States of America,” said McLaughlin, at a time when the Trump administration has relied heavily on reality television tactics to showcase its increased deportations of non-citizens. “It’s important to revive civic duty.”
 
-– May 16, 2025 – Department of Homeland Security spokeswoman Tricia McLaughlin confirmed that the department was considering participating in a reality television show where immigrants would compete for US citizenship. Pitched by Duck Dynasty producer Rob Worsoff to DHS, the show, whose working title is The American, would feature immigrants going through a series of challenges based on American traditions and customs and would end with one contestant being sworn in as a US citizen. According to Worsoff’s pitch deck, each episode would include elimination challenges and location-specific heritage challenges, such as a “gold rush” challenge in San Francisco, a “pizza” challenge in New York, or a “NASA” challenge in Florida. At the end of each episode, members of a particular US state would vote in a town hall meeting on which immigrant contestant should advance on the path to citizenship. “The pitch generally was a celebration of being an American and what a privilege it is to be able to be a citizen of the United States of America,” said McLaughlin, at a time when the Trump administration has relied heavily on reality television tactics to showcase its increased deportations of non-citizens. “It’s important to revive civic duty.”
+  <li>May 17, 2025 – Trump blasted Walmart, after the country’s largest retailer warned that it would raise prices because of tariffs. Writing on Truth Social, the president said, “Walmart should STOP trying to blame Tariffs as the reason for raising prices throughout the chain. Between Walmart and China, they should, as is said, ‘EAT THE TARIFFS,’ and not charge valued customers ANYTHING.” Trump’s post echoed Commerce Secretary Howard Lutnick’s recent comments that “businesses and the countries primarily eat the tariff.” Economists have stated that the tariffs primarily burden lower- and middle-income Americans. Kimberly Clausing, a senior fellow at the Peterson Institute for International Economics, said the impacts of the tariffs fall on those who can least afford it, and that the tariffs will wipe out 2.7 percent of the income of the bottom 20 percent of earners. “That’s a big hit if you’re living paycheck to paycheck.”
 
-– May 17, 2025 – Trump blasted Walmart, after the country’s largest retailer warned that it would raise prices because of tariffs. Writing on Truth Social, the president said, “Walmart should STOP trying to blame Tariffs as the reason for raising prices throughout the chain. Between Walmart and China, they should, as is said, ‘EAT THE TARIFFS,’ and not charge valued customers ANYTHING.” Trump’s post echoed Commerce Secretary Howard Lutnick’s recent comments that “businesses and the countries primarily eat the tariff.” Economists have stated that the tariffs primarily burden lower- and middle-income Americans. Kimberly Clausing, a senior fellow at the Peterson Institute for International Economics, said the impacts of the tariffs fall on those who can least afford it, and that the tariffs will wipe out 2.7 percent of the income of the bottom 20 percent of earners. “That’s a big hit if you’re living paycheck to paycheck.”
+  <li>May 18, 2025 – After former president Joe Biden shared that he was diagnosed with an advanced form of prostate cancer, Donald Trump Jr. took to X and mocked him. He questioned Dr. Jill Biden’s efforts to prevent the spread of Biden’s cancer. Trump Jr. reshared a message from Dr. Steven Quay, who alleged that prostate cancer should be the “easiest cancer to diagnose when it first starts.” In the post, Trump Jr. said, “What I want to know is how did Dr. Jill Biden miss stage five metastatic cancer, or is this yet another coverup???" The following day, President Trump’s comments echoed those of his son’s, “To get to Stage 9, that’s a long time,” confusing the cancer stage with the Gleason score. “You have to say, why did it take so long? Somebody is not telling the facts.” After being called out for his initial post, Trump Jr. doubled down on his post and said, “I sometimes forget that part of the mental disorder of leftism is an inability to understand sarcasm.”
 
-– May 18, 2025 – After former president Joe Biden shared that he was diagnosed with an advanced form of prostate cancer, Donald Trump Jr. took to X and mocked him. He questioned Dr. Jill Biden’s efforts to prevent the spread of Biden’s cancer. Trump Jr. reshared a message from Dr. Steven Quay, who alleged that prostate cancer should be the “easiest cancer to diagnose when it first starts.” In the post, Trump Jr. said, “What I want to know is how did Dr. Jill Biden miss stage five metastatic cancer, or is this yet another coverup???" The following day, President Trump’s comments echoed those of his son’s, “To get to Stage 9, that’s a long time,” confusing the cancer stage with the Gleason score. “You have to say, why did it take so long? Somebody is not telling the facts.” After being called out for his initial post, Trump Jr. doubled down on his post and said, “I sometimes forget that part of the mental disorder of leftism is an inability to understand sarcasm.”
+  <li>May 19, 2025 – Following a call with Vladimir Putin, Trump announced that Russia and Ukraine would begin ceasefire negotiations. “The tone and spirit of the conversation were excellent,” Trump said about the call, adding that Putin was a “nice gentleman.” Putin told Trump that any ceasefire negotiations needed to be accompanied by concessions to Russia. Days earlier, Russia launched a deadly drone strike on Kyiv that killed at least fourteen civilians. Trump said nothing about it during their call.
 
-– May 19, 2025 – Following a call with Vladimir Putin, Trump announced that Russia and Ukraine would begin ceasefire negotiations. “The tone and spirit of the conversation were excellent,” Trump said about the call, adding that Putin was a “nice gentleman.” Putin told Trump that any ceasefire negotiations needed to be accompanied by concessions to Russia. Days earlier, Russia launched a deadly drone strike on Kyiv that killed at least fourteen civilians. Trump said nothing about it during their call.
-
-– May 20, 2025 – Homeland Security Secretary Kristi Noem botched answers about habeas corpus during a Senate hearing. She incorrectly stated that the legal right of people to challenge their detention by the government was actually the president’s “constitutional right” to deport people. Senator Maggie Hassan, Democrat of New Hampshire, asked Noem to define habeas corpus. The secretary answered, “Well, habeas corpus is a constitutional right that the president has to be able to remove people from this country and suspend their right to—" before Senator Hassan interrupted. “Let me stop you, ma’am. Excuse me, that’s incorrect.” Her hearing came at a time when Trump officials floated the idea of suspending habeas corpus to carry out its promise of mass deportations.
+  <li>May 20, 2025 – Homeland Security Secretary Kristi Noem botched answers about habeas corpus during a Senate hearing. She incorrectly stated that the legal right of people to challenge their detention by the government was actually the president’s “constitutional right” to deport people. Senator Maggie Hassan, Democrat of New Hampshire, asked Noem to define habeas corpus. The secretary answered, “Well, habeas corpus is a constitutional right that the president has to be able to remove people from this country and suspend their right to—" before Senator Hassan interrupted. “Let me stop you, ma’am. Excuse me, that’s incorrect.” Her hearing came at a time when Trump officials floated the idea of suspending habeas corpus to carry out its promise of mass deportations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Kristi Noem incorrectly defines habeas corpus during hearing. (ABC News)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 21, 2025 – The Trump Administration asked the Supreme Court to block court orders for DOGE to turn over its documents to a government watchdog group. The Justice Department’s emergency appeal stated that DOGE is a presidential advisory body and not a federal agency. The distinction would exempt DOGE from requests for documents through the Freedom of Information Act (FOIA). Solicitor General D. John Sauer said the lower court order “clearly violates the separation of powers” by asking a presidential advisory group to release its records, “threatening the confidentiality and candor of its advice.” In his March ruling, US District Judge Christopher Cooper found that DOGE is likely subject to FOIA and said that the task force’s actions establish that it has “substantial authority over vast swathes of the federal government.”</li>
 
-– May 21, 2025 – The Trump Administration asked the Supreme Court to block court orders for DOGE to turn over its documents to a government watchdog group. The Justice Department’s emergency appeal stated that DOGE is a presidential advisory body and not a federal agency. The distinction would exempt DOGE from requests for documents through the Freedom of Information Act (FOIA). Solicitor General D. John Sauer said the lower court order “clearly violates the separation of powers” by asking a presidential advisory group to release its records, “threatening the confidentiality and candor of its advice.” In his March ruling, US District Judge Christopher Cooper found that DOGE is likely subject to FOIA and said that the task force’s actions establish that it has “substantial authority over vast swathes of the federal government.”
-
-– May 21, 2025 – During a White House meeting with South African President Cyril Ramaphosa, Trump asserted baseless conspiracy theories about the “genocide” of white farmers. He showed a video and skimmed through several news articles, declaring white farmers in South Africa have faced “death, death, death, horrible death.” Trump also said, “People are fleeing South Africa for their own safety. Their land is being confiscated and in many cases they’re being killed.” In one of the photos Trump provided as evidence, he stated, “Look, here’s burial sites all over the place. These are all white farmers that are being buried.” BBC Verify and Reuters identified the image as being from a report about women being killed in the Democratic Republic of Congo in February.
-
+  <li>May 21, 2025 – During a White House meeting with South African President Cyril Ramaphosa, Trump asserted baseless conspiracy theories about the “genocide” of white farmers. He showed a video and skimmed through several news articles, declaring white farmers in South Africa have faced “death, death, death, horrible death.” Trump also said, “People are fleeing South Africa for their own safety. Their land is being confiscated and in many cases they’re being killed.” In one of the photos Trump provided as evidence, he stated, “Look, here’s burial sites all over the place. These are all white farmers that are being buried.” BBC Verify and Reuters identified the image as being from a report about women being killed in the Democratic Republic of Congo in February.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trump confronts South African president with video, defends Afrikaner resettlement. (PBS News)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 21, 2025 – A Bronx high school student was detained by ICE during a routine immigration hearing. The student, Dylan, who is twenty and whose last name was withheld in media reports because his family feared retaliation, had fled Venezuela last year and was subsequently kidnapped and held for ransom in Mexico by the Sinaloa cartel. His mother eventually secured his release, and Dylan then turned himself in at the US border through a Biden-era program. After requesting asylum, he was allowed to enter the country while waiting for a court date and joined his mother and two siblings in the Bronx. Dylan’s arrest was part of a nationwide immigration escalation in which ICE officials have shown up at immigration courts in large numbers, and government lawyers have requested that immigration cases be dismissed so that they can then begin expedited deportation proceedings. Dylan, who attended his immigration hearing without a lawyer, unknowingly gave up his legal protections when his case was dismissed and was promptly arrested by ICE. “Dylan entered the United States with permission to seek asylum, and his detention robs him of the opportunity to seek that relief with the full protections offered to him under the law,” said the New York Legal Assistance Group. “He works, goes to school, has friends, and was fully complying with immigration proceedings. All this does is disrupt communities and unnecessarily put people in chaotic and potentially harmful situations.”</li>
 
-– May 21, 2025 – A Bronx high school student was detained by ICE during a routine immigration hearing. The student, Dylan, who is twenty and whose last name was withheld in media reports because his family feared retaliation, had fled Venezuela last year and was subsequently kidnapped and held for ransom in Mexico by the Sinaloa cartel. His mother eventually secured his release, and Dylan then turned himself in at the US border through a Biden-era program. After requesting asylum, he was allowed to enter the country while waiting for a court date and joined his mother and two siblings in the Bronx. Dylan’s arrest was part of a nationwide immigration escalation in which ICE officials have shown up at immigration courts in large numbers, and government lawyers have requested that immigration cases be dismissed so that they can then begin expedited deportation proceedings. Dylan, who attended his immigration hearing without a lawyer, unknowingly gave up his legal protections when his case was dismissed and was promptly arrested by ICE. “Dylan entered the United States with permission to seek asylum, and his detention robs him of the opportunity to seek that relief with the full protections offered to him under the law,” said the New York Legal Assistance Group. “He works, goes to school, has friends, and was fully complying with immigration proceedings. All this does is disrupt communities and unnecessarily put people in chaotic and potentially harmful situations.”
+  <li>May 21, 2025 – House Republicans passed their multitrillion-dollar tax breaks package that Trump named “One Big Beautiful Bill.” The House voted 215-214, with Democrats unanimously against it. The bill included more than $900 billion in reduced spending, most of that coming through the Medicaid and the Supplemental Nutrition Assistance programs. The Congressional Budget Office said the proposals would reduce the number of people with health care by at least $7.6 million. An Accountable.US report found that the top richest GOP members of the House and Senate have a collective net worth of over $2.5 billion. The report stated, “While pushing for more tax cuts to line their own pockets, many of the richest Republican members are pushing for draconian cuts to the very social programs that millions of their constituents rely on.”</li>
 
- – May 21, 2025 – House Republicans passed their multitrillion-dollar tax breaks package that Trump named “One Big Beautiful Bill.” The House voted 215-214, with Democrats unanimously against it. The bill included more than $900 billion in reduced spending, most of that coming through the Medicaid and the Supplemental Nutrition Assistance programs. The Congressional Budget Office said the proposals would reduce the number of people with health care by at least $7.6 million. An Accountable.US report found that the top richest GOP members of the House and Senate have a collective net worth of over $2.5 billion. The report stated, “While pushing for more tax cuts to line their own pockets, many of the richest Republican members are pushing for draconian cuts to the very social programs that millions of their constituents rely on.”
+  <li>May 22, 2025 – The President of the United States hosted a dinner to reward top investors in one of his cryptocurrency projects. The event took place at Trump National Golf Club in Northern Virginia, where 220 of the biggest investors in the $Trump memecoin dined on filet mignon and halibut. The White House insisted that Trump attended in “his personal time.” He flew to the event in a military helicopter, stood behind a lectern with the presidential seal, and congratulated an industry that is generating enormous profits for his family business. At the entrance to the club, guests were greeted by protesters who chanted, “Shame, shame, shame!” Press Secretary Karoline Leavitt said, “I think everybody, the American public, believes it is absurd for anyone to insinuate that this president is profiting off of the presidency.”</li>
 
-– May 22, 2025 – The President of the United States hosted a dinner to reward top investors in one of his cryptocurrency projects. The event took place at Trump National Golf Club in Northern Virginia, where 220 of the biggest investors in the $Trump memecoin dined on filet mignon and halibut. The White House insisted that Trump attended in “his personal time.” He flew to the event in a military helicopter, stood behind a lectern with the presidential seal, and congratulated an industry that is generating enormous profits for his family business. At the entrance to the club, guests were greeted by protesters who chanted, “Shame, shame, shame!” Press Secretary Karoline Leavitt said, “I think everybody, the American public, believes it is absurd for anyone to insinuate that this president is profiting off of the presidency.”
+  <li>May 22, 2025 – A federal judge blocked the Trump administration from cutting off Harvard’s enrollment of international students. The ruling from US District Judge Allison Burroughs put the sanction against Harvard on hold. Harvard’s federal lawsuit stated, “With the stroke of a pen, the government has sought to erase a quarter of Harvard’s student body, international students who contribute significantly to the University and its mission. Without its international students, Harvard is not Harvard.” The Wall Street Journal’s editorial board criticized the Trump administration’s assault on Harvard. “It’s a short-sighted attack on one of America’s great competitive strengths: Its ability to attract the world’s best and brightest.” Adding, “Until courts settle the merits, thousands of students who have done nothing wrong will be in legal limbo.”</li>
 
-– May 22, 2025 – A federal judge blocked the Trump administration from cutting off Harvard’s enrollment of international students. The ruling from US District Judge Allison Burroughs put the sanction against Harvard on hold. Harvard’s federal lawsuit stated, “With the stroke of a pen, the government has sought to erase a quarter of Harvard’s student body, international students who contribute significantly to the University and its mission. Without its international students, Harvard is not Harvard.” The Wall Street Journal’s editorial board criticized the Trump administration’s assault on Harvard. “It’s a short-sighted attack on one of America’s great competitive strengths: Its ability to attract the world’s best and brightest.” Adding, “Until courts settle the merits, thousands of students who have done nothing wrong will be in legal limbo.”
-
-– May 24, 2025 – In his commencement address to graduating cadets of the US Military Academy at West Point, Trump advised the graduates against marrying “trophy wives.” “I must tell you,” he said. “A lot of trophy wives, it doesn’t work out.” He also boasted about how he was responsible for the most powerful army the world has ever known. "And I know because I rebuilt the Army and I rebuilt the military.” Trump left West Point immediately, claiming he had to go “deal with” Russia and China. White House spokesperson Taylor Rogers confirmed that Trump had prescheduled calls with Russia and China. He added, “President Trump is planning a magnificent parade as a grand tribute to honor the service and sacrifice of the brave soldiers who have fought, bled, and died to keep us free.” Rogers didn’t mention that the parade is scheduled on Trump’s birthday, and could cost taxpayers up to $45 million.
-
+  <li>May 24, 2025 – In his commencement address to graduating cadets of the US Military Academy at West Point, Trump advised the graduates against marrying “trophy wives.” “I must tell you,” he said. “A lot of trophy wives, it doesn’t work out.” He also boasted about how he was responsible for the most powerful army the world has ever known. "And I know because I rebuilt the Army and I rebuilt the military.” Trump left West Point immediately, claiming he had to go “deal with” Russia and China. White House spokesperson Taylor Rogers confirmed that Trump had prescheduled calls with Russia and China. He added, “President Trump is planning a magnificent parade as a grand tribute to honor the service and sacrifice of the brave soldiers who have fought, bled, and died to keep us free.” Rogers didn’t mention that the parade is scheduled on Trump’s birthday, and could cost taxpayers up to $45 million.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>President Trump discusses “trophy wives” at US Military Academy commencement. (New York Post)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
+  <li>May 25, 2025 – Following Russia’s largest bombardment of Ukraine in three years, Trump sharply criticized both Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy on social media. Trump called Putin “Absolutely CRAZY!” and said Zelenskyy was “Doing his Country no favors by talking the way he does. Everything out of his mouth causes problems, I don’t like it, and it better stop.” In the same post, Trump also blamed the Russo-Ukrainian War on former president Joe Biden, writing, “This is Zelenskyy’s, Putin’s, and Biden’s War, not ‘Trump’s’ I am only helping to put out the big and ugly fires, that have been started through Gross Incompetence and Hatred.” A Kremlin spokesperson later dismissed Trump’s remarks as “emotional overload.”</li>
 
-– May 25, 2025 – Following Russia’s largest bombardment of Ukraine in three years, Trump sharply criticized both Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy on social media. Trump called Putin “Absolutely CRAZY!” and said Zelenskyy was “Doing his Country no favors by talking the way he does. Everything out of his mouth causes problems, I don’t like it, and it better stop.” In the same post, Trump also blamed the Russo-Ukrainian War on former president Joe Biden, writing, “This is Zelenskyy’s, Putin’s, and Biden’s War, not ‘Trump’s’ I am only helping to put out the big and ugly fires, that have been started through Gross Incompetence and Hatred.” A Kremlin spokesperson later dismissed Trump’s remarks as “emotional overload.”
+  <li>May 25, 2025 – As he sought to clarify the details of a recently announced partnership between American and Japanese steel companies, President Trump mistakenly referred to Nippon, Japan’s largest steelmaker, as “Nissan,” a Japanese car company. “It’s a good company, Nissan, it’s a very good company,” Trump said. While discussing trade negotiations between the two companies back in February, Trump made the same error three times in forty seconds. During the 2024 presidential election, Trump repeatedly criticized former president Joe Biden’s gaffes as signs of cognitive impairment and challenged Biden to a cognitive test. Earlier in the month, after former special counsel Robert Hur’s audio interview with former President Joe Biden was leaked, Trump renewed his criticisms of Biden’s mental fitness, calling the former president “hapless and cognitively impaired.”</li>
 
-– May 25, 2025 – As he sought to clarify the details of a recently announced partnership between American and Japanese steel companies, President Trump mistakenly referred to Nippon, Japan’s largest steelmaker, as “Nissan,” a Japanese car company. “It’s a good company, Nissan, it’s a very good company,” Trump said. While discussing trade negotiations between the two companies back in February, Trump made the same error three times in forty seconds. During the 2024 presidential election, Trump repeatedly criticized former president Joe Biden’s gaffes as signs of cognitive impairment and challenged Biden to a cognitive test. Earlier in the month, after former special counsel Robert Hur’s audio interview with former President Joe Biden was leaked, Trump renewed his criticisms of Biden’s mental fitness, calling the former president “hapless and cognitively impaired.”
+  <li>May 26, 2025 – In a social media post on Memorial Day, President Trump used the solemn occasion to attack his political opponents, his predecessor, and the federal judiciary, all while citing erroneous illegal immigration numbers, in an all-caps tirade: “HAPPY MEMORIAL DAY TO ALL, INCLUDING THE SCUM THAT SPENT THE LAST FOUR YEARS TRYING TO DESTROY OUR COUNTRY THROUGH WARPED RADICAL LEFT MINDS, WHO ALLOWED 21,000,000 MILLION PEOPLE TO ILLEGALLY ENTER OUR COUNTRY, MANY OF THEM BEING CRIMINALS AND THE MENTALLY INSANE, THROUGH AN OPEN BORDER THAT ONLY AN INCOMPETENT PRESIDENT WOULD APPROVE, AND THROUGH JUDGES WHO ARE ON A MISSION TO KEEP MURDERERS, DRUG DEALERS, RAPISTS, GANG MEMBERS, AND RELEASED PRISONERS FROM ALL OVER THE WORLD, IN OUR COUNTRY SO THEY CAN ROB, MURDER, AND RAPE AGAIN — ALL PROTECTED BY THESE USA HATING JUDGES WHO SUFFER FROM AN IDEOLOGY THAT IS SICK, AND VERY DANGEROUS FOR OUR COUNTRY. HOPEFULLY THE UNITED STATES SUPREME COURT, AND OTHER GOOD AND COMPASSIONATE JUDGES THROUGHOUT THE LAND, WILL SAVE US FROM THE DECISIONS OF THE MONSTERS WHO WANT OUR COUNTRY TO GO TO HELL. BUT FEAR NOT, WE HAVE MADE GREAT PROGRESS OVER THE LAST 4 MONTHS, AND AMERICA WILL SOON BE SAFE AND GREAT AGAIN! AGAIN, HAPPY MEMORIAL DAY, AND GOD BLESS AMERICA!”</li>
 
-– May 26, 2025 – In a social media post on Memorial Day, President Trump used the solemn occasion to attack his political opponents, his predecessor, and the federal judiciary, all while citing erroneous illegal immigration numbers, in an all-caps tirade: “HAPPY MEMORIAL DAY TO ALL, INCLUDING THE SCUM THAT SPENT THE LAST FOUR YEARS TRYING TO DESTROY OUR COUNTRY THROUGH WARPED RADICAL LEFT MINDS, WHO ALLOWED 21,000,000 MILLION PEOPLE TO ILLEGALLY ENTER OUR COUNTRY, MANY OF THEM BEING CRIMINALS AND THE MENTALLY INSANE, THROUGH AN OPEN BORDER THAT ONLY AN INCOMPETENT PRESIDENT WOULD APPROVE, AND THROUGH JUDGES WHO ARE ON A MISSION TO KEEP MURDERERS, DRUG DEALERS, RAPISTS, GANG MEMBERS, AND RELEASED PRISONERS FROM ALL OVER THE WORLD, IN OUR COUNTRY SO THEY CAN ROB, MURDER, AND RAPE AGAIN — ALL PROTECTED BY THESE USA HATING JUDGES WHO SUFFER FROM AN IDEOLOGY THAT IS SICK, AND VERY DANGEROUS FOR OUR COUNTRY. HOPEFULLY THE UNITED STATES SUPREME COURT, AND OTHER GOOD AND COMPASSIONATE JUDGES THROUGHOUT THE LAND, WILL SAVE US FROM THE DECISIONS OF THE MONSTERS WHO WANT OUR COUNTRY TO GO TO HELL. BUT FEAR NOT, WE HAVE MADE GREAT PROGRESS OVER THE LAST 4 MONTHS, AND AMERICA WILL SOON BE SAFE AND GREAT AGAIN! AGAIN, HAPPY MEMORIAL DAY, AND GOD BLESS AMERICA!”
+  <li>May 27, 2025 – The New York Times reported that President Trump’s recent pardon of Paul Walczak came after Walczak’s mother, Elizabeth Fago, attended a $1 million–per–plate fundraising dinner at Mar-a-Lago. In November 2024, Walczak pleaded guilty to failing to pay over $10 million in taxes, which he had used to buy a $2 million yacht, among other high-end purchases. In April 2025, Walczak was sentenced to eighteen months in prison and $4.4 million in restitution. Despite his own admission that he had failed to pay taxes, Walczak argued in his pardon application that his prosecution was politically motivated, tied to the millions his mother had raised for Republicans, including President Trump, and her connection to attempts to publicize Ashley Biden’s diary in order to damage the Biden campaign. Less than three weeks after Fago attended the fundraising dinner at Mar-a-Lago, Trump signed a full and unconditional pardon for Walczak, saving him from having to report to prison or pay any restitution.</li>
 
-– May 27, 2025 – The New York Times reported that President Trump’s recent pardon of Paul Walczak came after Walczak’s mother, Elizabeth Fago, attended a $1 million–per–plate fundraising dinner at Mar-a-Lago. In November 2024, Walczak pleaded guilty to failing to pay over $10 million in taxes, which he had used to buy a $2 million yacht, among other high-end purchases. In April 2025, Walczak was sentenced to eighteen months in prison and $4.4 million in restitution. Despite his own admission that he had failed to pay taxes, Walczak argued in his pardon application that his prosecution was politically motivated, tied to the millions his mother had raised for Republicans, including President Trump, and her connection to attempts to publicize Ashley Biden’s diary in order to damage the Biden campaign. Less than three weeks after Fago attended the fundraising dinner at Mar-a-Lago, Trump signed a full and unconditional pardon for Walczak, saving him from having to report to prison or pay any restitution.
+  <li>May 27, 2025 – Health Secretary Robert F. Kennedy Jr.—a known vaccine skeptic who has advocated bogus treatments for COVID—announced that the COVID vaccine would no longer be recommended for healthy children and pregnant women. Typically, such decisions are not made by the health secretary but by the CDC’s advisors and director. “I couldn’t be more pleased to announce that as of today, the COVID vaccine for healthy children and healthy pregnant women has been removed from the CDC recommended immunization schedule,” Kennedy said in a video posted to social media. Although Kennedy claimed in the video that there was no clinical data to support additional shots for healthy children, pediatricians argue that young infants face the highest risks for hospitalization. The FDA also lists pregnancy as a high-risk condition for COVID. Pregnant women are more likely to become severely ill or die from COVID, and COVID infection during pregnancy is also associated with pre-eclampsia, preterm birth, and stillbirth.</li>
 
-– May 27, 2025 – Health Secretary Robert F. Kennedy Jr.—a known vaccine skeptic who has advocated bogus treatments for COVID—announced that the COVID vaccine would no longer be recommended for healthy children and pregnant women. Typically, such decisions are not made by the health secretary but by the CDC’s advisors and director. “I couldn’t be more pleased to announce that as of today, the COVID vaccine for healthy children and healthy pregnant women has been removed from the CDC recommended immunization schedule,” Kennedy said in a video posted to social media. Although Kennedy claimed in the video that there was no clinical data to support additional shots for healthy children, pediatricians argue that young infants face the highest risks for hospitalization. The FDA also lists pregnancy as a high-risk condition for COVID. Pregnant women are more likely to become severely ill or die from COVID, and COVID infection during pregnancy is also associated with pre-eclampsia, preterm birth, and stillbirth.
+  <li>May 27, 2025 – The Los Angeles Times reported that a four-year-old girl with a rare and complex bowel condition was facing deportation and could die within days of losing her medical care. The girl, identified only by her initials, S. V. G., has short bowel syndrome, a condition that prevents her body from absorbing enough nutrients. In 2023, S. V. G. and her family were granted humanitarian permission to enter the United States legally from Mexico, allowing her to receive medical treatment. Since arriving in the US, S. V. G. has been treated every six weeks at Children’s Hospital Los Angeles and also uses an IV-administered nutrition system at home that she is hooked up to for eighteen hours per day. According to Dr. John Asenault, S. V. G.’s doctor, the girl will die “within a matter of days” if her nutrition system is interrupted. “This is a textbook example of medical need,” said the family’s attorney, who added that she believed the family’s immigration status was revoked by mistake. “This child will die, and there’s no sense for that to happen. It would just be a cruel sacrifice.”</li>
 
-– May 27, 2025 – The Los Angeles Times reported that a four-year-old girl with a rare and complex bowel condition was facing deportation and could die within days of losing her medical care. The girl, identified only by her initials, S. V. G., has short bowel syndrome, a condition that prevents her body from absorbing enough nutrients. In 2023, S. V. G. and her family were granted humanitarian permission to enter the United States legally from Mexico, allowing her to receive medical treatment. Since arriving in the US, S. V. G. has been treated every six weeks at Children’s Hospital Los Angeles and also uses an IV-administered nutrition system at home that she is hooked up to for eighteen hours per day. According to Dr. John Asenault, S. V. G.’s doctor, the girl will die “within a matter of days” if her nutrition system is interrupted. “This is a textbook example of medical need,” said the family’s attorney, who added that she believed the family’s immigration status was revoked by mistake. “This child will die, and there’s no sense for that to happen. It would just be a cruel sacrifice.”
+  <li>May 27, 2025 – Speaking on a podcast, Health Secretary Robert F. Kennedy Jr. threatened to ban federal scientists from publishing in top medical journals. Kennedy accused three of the top medical journals—The New England Journal of Medicine, the Journal of the American Medical Association, and The Lancet—of being “corrupt” and publishing studies funded and approved by Big Pharma. “Unless those journals change dramatically, we are going to stop NIH scientists from publishing in them, and we’re going to create our own journals in-house,” said Kennedy Jr., whose remarks came after the Justice Department sent threatening letters to both The New England Journal of Medicine and the Journal of the American Medical Association implying they were partisan.</li>
 
-– May 27, 2025 – Speaking on a podcast, Health Secretary Robert F. Kennedy Jr. threatened to ban federal scientists from publishing in top medical journals. Kennedy accused three of the top medical journals—The New England Journal of Medicine, the Journal of the American Medical Association, and The Lancet—of being “corrupt” and publishing studies funded and approved by Big Pharma. “Unless those journals change dramatically, we are going to stop NIH scientists from publishing in them, and we’re going to create our own journals in-house,” said Kennedy Jr., whose remarks came after the Justice Department sent threatening letters to both The New England Journal of Medicine and the Journal of the American Medical Association implying they were partisan.
+  <li>May 27, 2025 – After a transgender high school athlete qualified for the California state track championship, President Trump targeted the teenage girl in a Truth Social post: “This week a transitioned Male athlete, at a major event, won ‘everything,’ and is now qualified to compete in the ‘State Finals’ next weekend. As a Male, he was less than average competitor [sic]. As a Female, this transitioned person is practically unbeatable. THIS IS NOT FAIR, AND TOTALLY DEMEANING TO WOMEN AND GIRLS…. I am ordering local authorities, if necessary, to not allow the transitioned person to compete in the State Finals.” In the same post, Trump also threatened to withhold federal funding from California.</li>
 
-– May 27, 2025 – After a transgender high school athlete qualified for the California state track championship, President Trump targeted the teenage girl in a Truth Social post: “This week a transitioned Male athlete, at a major event, won ‘everything,’ and is now qualified to compete in the ‘State Finals’ next weekend. As a Male, he was less than average competitor [sic]. As a Female, this transitioned person is practically unbeatable. THIS IS NOT FAIR, AND TOTALLY DEMEANING TO WOMEN AND GIRLS…. I am ordering local authorities, if necessary, to not allow the transitioned person to compete in the State Finals.” In the same post, Trump also threatened to withhold federal funding from California.
+  <li>May 28, 2025 – In another escalation of the Trump administration’s crackdown on international students, Secretary of State Marco Rubio announced that the US would “aggressively revoke” the visas of Chinese students and that the State Department would “enhance scrutiny” of future visa applications from both China and Hong Kong. There are approximately 275,000 Chinese students currently studying in the United States. Rubio’s announcement came during heightened trade tensions with China, which the Trump administration has targeted with significant tariffs. “America has always thrived by welcoming the brightest minds from around the world,” said Gary Locke, a former US ambassador to China. “Shutting the door on Chinese students doesn’t just betray our values—it weakens our leadership in science, technology, and innovation.”</li>
 
-– May 28, 2025 – In another escalation of the Trump administration’s crackdown on international students, Secretary of State Marco Rubio announced that the US would “aggressively revoke” the visas of Chinese students and that the State Department would “enhance scrutiny” of future visa applications from both China and Hong Kong. There are approximately 275,000 Chinese students currently studying in the United States. Rubio’s announcement came during heightened trade tensions with China, which the Trump administration has targeted with significant tariffs. “America has always thrived by welcoming the brightest minds from around the world,” said Gary Locke, a former US ambassador to China. “Shutting the door on Chinese students doesn’t just betray our values—it weakens our leadership in science, technology, and innovation.”
+  <li>May 28, 2025 – Trump issued over two dozen pardons and commutations, including many to political allies. The clemency recipients included the reality television stars Julie and Todd Chrisley, whose daughter, a Trump supporter, attended the Republican National Convention last summer; former Congressman Michael Grimm, who has defended Trump on television; music executive Michael Harris, who endorsed Trump; and venture capitalist Imaad Zuberi, who donated over $1.1 million to committees associated with Trump and the Republican Party. Two days before the pardons and commutations were issued, Ed Martin, a Trump advisor involved in the process, wrote on X, “No MAGA left behind.”</li>
 
-– May 28, 2025 – Trump issued over two dozen pardons and commutations, including many to political allies. The clemency recipients included the reality television stars Julie and Todd Chrisley, whose daughter, a Trump supporter, attended the Republican National Convention last summer; former Congressman Michael Grimm, who has defended Trump on television; music executive Michael Harris, who endorsed Trump; and venture capitalist Imaad Zuberi, who donated over $1.1 million to committees associated with Trump and the Republican Party. Two days before the pardons and commutations were issued, Ed Martin, a Trump advisor involved in the process, wrote on X, “No MAGA left behind.”
+  <li>May 28, 2025 – Elon Musk announced that he was leaving his job with DOGE: “As my scheduled time as a Special Government Employee comes to an end, I would like to thank President @realDonaldTrump for the opportunity to reduce wasteful spending. The @DOGE mission will only strengthen over time as it becomes a way of life throughout the government.” The announcement came after Musk said he would cut back on political spending and criticized Trump’s budget bill earlier in the week. During Musk’s turbulent tenure at DOGE, he fired thousands of federal employees and destroyed numerous government agencies, prompting both political and legal pushback. Some estimated that his cuts to USAID have already resulted in 300,000 deaths and that DOGE’s actions are likely to cost the government $135 billion this fiscal year without even factoring in potential lawsuits. In the end, Musk was forced to scale back his spending cut target from an ambitious $2 trillion to a mere $150 billion, a goal which may still not be reached. Though Musk’s tenure at DOGE was a massive failure and also resulted in declining sales for Tesla, the news wasn’t all bad for the world’s richest man: Katie Miller—the Trump advisor married to White House Deputy Chief of Staff Stephen Miller, who defended the budget bill after Musk’s criticisms—reportedly left her job at the White House to go work full-time for Musk.</li>
 
-– May 28, 2025 – Elon Musk announced that he was leaving his job with DOGE: “As my scheduled time as a Special Government Employee comes to an end, I would like to thank President @realDonaldTrump for the opportunity to reduce wasteful spending. The @DOGE mission will only strengthen over time as it becomes a way of life throughout the government.” The announcement came after Musk said he would cut back on political spending and criticized Trump’s budget bill earlier in the week. During Musk’s turbulent tenure at DOGE, he fired thousands of federal employees and destroyed numerous government agencies, prompting both political and legal pushback. Some estimated that his cuts to USAID have already resulted in 300,000 deaths and that DOGE’s actions are likely to cost the government $135 billion this fiscal year without even factoring in potential lawsuits. In the end, Musk was forced to scale back his spending cut target from an ambitious $2 trillion to a mere $150 billion, a goal which may still not be reached. Though Musk’s tenure at DOGE was a massive failure and also resulted in declining sales for Tesla, the news wasn’t all bad for the world’s richest man: Katie Miller—the Trump advisor married to White House Deputy Chief of Staff Stephen Miller, who defended the budget bill after Musk’s criticisms—reportedly left her job at the White House to go work full-time for Musk.
+  <li>May 28, 2025 – Jeanine Pirro was sworn in as acting US attorney for Washington, DC, becoming the second former Fox News host, after Pete Hegseth, to receive a high-profile federal appointment. During the Oval Office ceremony, Trump praised Pirro for being “very, very successful” on television. Pirro, who has not practiced law or served in government for over two decades, is a longtime ally of Trump’s. She previously made false statements about the 2020 presidential election, resulting in a lawsuit against Fox News that was eventually settled, and Trump pardoned her husband for tax evasion during his first term. The Democratic National Committee called Pirro “yet another unqualified TV personality with a history of putting Trump and violent insurrectionists above the law.” Earlier in her career, Pirro was also the subject of illegal wiretapping probes related to her alleged attempts to bug her then-husband’s boat to find out whether he’d been cheating on her.</li>
 
-– May 28, 2025 – Jeanine Pirro was sworn in as acting US attorney for Washington, DC, becoming the second former Fox News host, after Pete Hegseth, to receive a high-profile federal appointment. During the Oval Office ceremony, Trump praised Pirro for being “very, very successful” on television. Pirro, who has not practiced law or served in government for over two decades, is a longtime ally of Trump’s. She previously made false statements about the 2020 presidential election, resulting in a lawsuit against Fox News that was eventually settled, and Trump pardoned her husband for tax evasion during his first term. The Democratic National Committee called Pirro “yet another unqualified TV personality with a history of putting Trump and violent insurrectionists above the law.” Earlier in her career, Pirro was also the subject of illegal wiretapping probes related to her alleged attempts to bug her then-husband’s boat to find out whether he’d been cheating on her.
+  <li>May 29, 2025 – After NOTUS reported that the Trump administration’s “Make America Healthy Again” report cited nonexistent studies, leading AI experts claimed that some of the citations may have been generated using artificial intelligence. When asked about the false citations, Press Secretary Karoline Leavitt characterized them as “formatting issues” and described the MAHA report as “transformative” and “backed on good science that has never been recognized by the federal government.” Besides the citations for nonexistent studies, some of the footnotes in the MAHA report appeared multiple times, others cited the wrong author, and still others included dead links. Some of the citations included “oaicite” in their URLs, a marker indicating that OpenAI was used. “This is not an evidence-based report, and for all practical purposes, it should be junked at this point,” said Georges C. Benjamin, executive director of the American Public Health Association. “It cannot be used for any policymaking. It cannot even be used for any serious discussion because you can’t believe what’s in it.”</li>
 
-– May 29, 2025 – After NOTUS reported that the Trump administration’s “Make America Healthy Again” report cited nonexistent studies, leading AI experts claimed that some of the citations may have been generated using artificial intelligence. When asked about the false citations, Press Secretary Karoline Leavitt characterized them as “formatting issues” and described the MAHA report as “transformative” and “backed on good science that has never been recognized by the federal government.” Besides the citations for nonexistent studies, some of the footnotes in the MAHA report appeared multiple times, others cited the wrong author, and still others included dead links. Some of the citations included “oaicite” in their URLs, a marker indicating that OpenAI was used. “This is not an evidence-based report, and for all practical purposes, it should be junked at this point,” said Georges C. Benjamin, executive director of the American Public Health Association. “It cannot be used for any policymaking. It cannot even be used for any serious discussion because you can’t believe what’s in it.”
+  <li>May 29, 2025 – The Washington Post reported that a two-year-old American citizen, Manu Santos, who was deported to Brazil with her parents on February 21, has essentially become stateless. The girl’s parents said they were not given a choice about whether to take their child with them or leave her in the US with her uncle. Because the girl, who was born in Florida, was neither a citizen nor a resident of Brazil, she had to enter the country on a temporary tourism visa. As a result, the child had no legal status and did not have access to routine pediatric checkups; her temporary visa is set to expire in a few weeks, and she remained ineligible for Brazilian citizenship. “What if we need to take her to the doctor?” Manu’s mother wondered.</li>
 
-– May 29, 2025 – The Washington Post reported that a two-year-old American citizen, Manu Santos, who was deported to Brazil with her parents on February 21, has essentially become stateless. The girl’s parents said they were not given a choice about whether to take their child with them or leave her in the US with her uncle. Because the girl, who was born in Florida, was neither a citizen nor a resident of Brazil, she had to enter the country on a temporary tourism visa. As a result, the child had no legal status and did not have access to routine pediatric checkups; her temporary visa is set to expire in a few weeks, and she remained ineligible for Brazilian citizenship. “What if we need to take her to the doctor?” Manu’s mother wondered.
+  <li>May 30, 2025 – The Texas Tribune and ProPublica reported that the Trump administration was aware that more than half of the 238 Venezuelans deported to El Salvador in March had no criminal record and had only violated minor immigration laws. After the Venezuelans were deported, multiple news outlets reported that many of the detainees had no criminal records. In response, the Trump administration doubled down, claiming its vetting process was thorough and included crimes committed both inside and outside the US. However, according to government data obtained by The Texas Tribune, ProPublica, and journalists from Venezuela, officials knew at the time that only thirty-two of the detainees had been convicted of US crimes, including nonviolent traffic violations and retail theft, and that only six of the detainees had been convicted of violent US crimes. As part of their investigation, the reporters also found evidence that only twenty of the 238 detainees had been arrested or convicted for foreign offences, though it’s not clear whether the US government already knew this information at the time the men were deported. When reporters questioned the administration about the discrepancies between its public statements and data, DHS Assistant Secretary Tricia McLaughlin, without providing evidence, repeated past claims: “These individuals categorized as ‘non-criminals’ are actually terrorists, human rights abusers, gang members and more—they just don’t have a rap sheet in the US.”</li>
 
-– May 30, 2025 – The Texas Tribune and ProPublica reported that the Trump administration was aware that more than half of the 238 Venezuelans deported to El Salvador in March had no criminal record and had only violated minor immigration laws. After the Venezuelans were deported, multiple news outlets reported that many of the detainees had no criminal records. In response, the Trump administration doubled down, claiming its vetting process was thorough and included crimes committed both inside and outside the US. However, according to government data obtained by The Texas Tribune, ProPublica, and journalists from Venezuela, officials knew at the time that only thirty-two of the detainees had been convicted of US crimes, including nonviolent traffic violations and retail theft, and that only six of the detainees had been convicted of violent US crimes. As part of their investigation, the reporters also found evidence that only twenty of the 238 detainees had been arrested or convicted for foreign offences, though it’s not clear whether the US government already knew this information at the time the men were deported. When reporters questioned the administration about the discrepancies between its public statements and data, DHS Assistant Secretary Tricia McLaughlin, without providing evidence, repeated past claims: “These individuals categorized as ‘non-criminals’ are actually terrorists, human rights abusers, gang members and more—they just don’t have a rap sheet in the US.”
+  <li>May 30, 2025 – The Trump administration ended a $258 million program that was working on an HIV vaccine. “The consortia for HIV/AIDS vaccine development and immunology was reviewed by NIH leadership, which does not support it moving forward,” said a senior official at the NIH. The move was just the latest cut to affect HIV research and prevention. Previously, the NIH cut several grants related to PrEP, and the Trump administration has shut down the HIV-prevention division at the CDC and frozen funds for PEPFAR, which supplied most of the HIV treatment in Africa and developing countries. Although HIV infections have been declining for about fifteen years, the World Health Organization still reported 1.3 million new cases in 2023. “The HIV pandemic will never be ended without a vaccine, so killing research on one will end up killing people,” said John Moore, an HIV researcher.</li>
 
-– May 30, 2025 – The Trump administration ended a $258 million program that was working on an HIV vaccine. “The consortia for HIV/AIDS vaccine development and immunology was reviewed by NIH leadership, which does not support it moving forward,” said a senior official at the NIH. The move was just the latest cut to affect HIV research and prevention. Previously, the NIH cut several grants related to PrEP, and the Trump administration has shut down the HIV-prevention division at the CDC and frozen funds for PEPFAR, which supplied most of the HIV treatment in Africa and developing countries. Although HIV infections have been declining for about fifteen years, the World Health Organization still reported 1.3 million new cases in 2023. “The HIV pandemic will never be ended without a vaccine, so killing research on one will end up killing people,” said John Moore, an HIV researcher.
+  <li>May 30, 2025 – Armed ICE agents raided an underground nightclub in Los Angeles, arresting thirty-six Chinese and Taiwanese nationals, as well as a popular Italian restaurant in San Diego, Buona Forchetta, where they arrested several employees. According to Claire Cody, an employee at the restaurant, ICE agents handcuffed all employees present and demanded to see identification. Those unable to produce identification were arrested. After a crowd attempted to block the unmarked ICE vehicles, the agents used flashbang smoke grenades to disperse them. “Ten (federal agents) came into part of our restaurant. And they handcuffed my manager, saying they have a search warrant, and I just started crying because I knew what was happening,” said Cody. “You always see this anywhere else, but then you experience it. And I’m just thinking about my coworkers and thinking about their families, and this is just very unfortunate and very sad. I’m just praying that they’re okay.”</li>
 
-– May 30, 2025 – Armed ICE agents raided an underground nightclub in Los Angeles, arresting thirty-six Chinese and Taiwanese nationals, as well as a popular Italian restaurant in San Diego, Buona Forchetta, where they arrested several employees. According to Claire Cody, an employee at the restaurant, ICE agents handcuffed all employees present and demanded to see identification. Those unable to produce identification were arrested. After a crowd attempted to block the unmarked ICE vehicles, the agents used flashbang smoke grenades to disperse them. “Ten (federal agents) came into part of our restaurant. And they handcuffed my manager, saying they have a search warrant, and I just started crying because I knew what was happening,” said Cody. “You always see this anywhere else, but then you experience it. And I’m just thinking about my coworkers and thinking about their families, and this is just very unfortunate and very sad. I’m just praying that they’re okay.”
+  <li>May 30, 2025 – Three weeks into Sean Combs’s criminal trial, President Trump did not rule out the possibility of pardoning the music mogul, with whom he has had a warm relationship in the past. When asked by a reporter about a potential pardon for Combs, Trump said, “I would certainly look at the facts.” Combs was charged with five felony counts of racketeering conspiracy, sex trafficking, and transportation to engage in prostitution and could face life in prison if convicted on all counts. Prosecutors allege that Combs forced women to participate in sexual performances with male sex workers over two decades, and two women have testified that Combs raped them. For decades, women have accused Trump of rape and sexual abuse, and in 2023, a court found him liable for sexually abusing E. Jean Carroll in 1996.</li>
 
-– May 30, 2025 – Three weeks into Sean Combs’s criminal trial, President Trump did not rule out the possibility of pardoning the music mogul, with whom he has had a warm relationship in the past. When asked by a reporter about a potential pardon for Combs, Trump said, “I would certainly look at the facts.” Combs was charged with five felony counts of racketeering conspiracy, sex trafficking, and transportation to engage in prostitution and could face life in prison if convicted on all counts. Prosecutors allege that Combs forced women to participate in sexual performances with male sex workers over two decades, and two women have testified that Combs raped them. For decades, women have accused Trump of rape and sexual abuse, and in 2023, a court found him liable for sexually abusing E. Jean Carroll in 1996.
-
-– May 30, 2025 – The New York Times reported that Elon Musk was using drugs heavily on the campaign trail last year. According to the article, Musk used Ecstasy, psychedelic mushrooms, and so much ketamine that it had begun to impact his bladder, a sign of chronic use. He traveled with a daily pill box that contained approximately twenty pills, including the stimulant Adderall, although it is not known whether he had a prescription for it. Although Musk has previously stated that he was prescribed biweekly ketamine treatments for depression, the Times found that he was using it much more often, sometimes daily, and also mixing it with other drugs. “I really don’t like doing illegal drugs,” Musk previously told his biographer, despite a history of recreational drug use. It is not known whether Musk’s heavy drug usage continued during his tenure at DOGE. Asked about Musk’s alleged drug use, President Trump responded, “I’m not troubled by anything with Elon. I think he’s fantastic. He did a great job.”
+  <li>May 30, 2025 – The New York Times reported that Elon Musk was using drugs heavily on the campaign trail last year. According to the article, Musk used Ecstasy, psychedelic mushrooms, and so much ketamine that it had begun to impact his bladder, a sign of chronic use. He traveled with a daily pill box that contained approximately twenty pills, including the stimulant Adderall, although it is not known whether he had a prescription for it. Although Musk has previously stated that he was prescribed biweekly ketamine treatments for depression, the Times found that he was using it much more often, sometimes daily, and also mixing it with other drugs. “I really don’t like doing illegal drugs,” Musk previously told his biographer, despite a history of recreational drug use. It is not known whether Musk’s heavy drug usage continued during his tenure at DOGE. Asked about Musk’s alleged drug use, President Trump responded, “I’m not troubled by anything with Elon. I think he’s fantastic. He did a great job.”</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 April, 2025
 Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes
@@ -1765,7 +1760,7 @@ April 2025: Atrocities 134-207
 by Emily Greenberg and Cliff Mayotte
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
-Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.
+Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.</li>
 
 - - -
 These lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subscribe to our website’s Patreon, please do. This will help support this project and our other work.
@@ -1774,18 +1769,19 @@ These lists, along with everything McSweeney’s publishes on this site, are off
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>ATROCITY KEY</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-The greatest graduation gift is this gorgeous deluxe boxed set of Walt Whitman’s Leaves of Grass. Shockingly affordable!
- – Constitutional Illegalities, Collusion, and/or Obstruction of Justice
- – Environment
- – Harassment, Bullying, Retribution, and/or Sexual Misconduct
- – Lies and Misinformation
- – Musk Madness
- – Policy
- – Public Statements and Social Media Posts
- – Trump Family Business Dealings
- – Trump Staff and Administration
- – White Supremacy, Racism, Misogyny, Homophobia, Transphobia, and/or Xenophobia
+<p>The greatest graduation gift is this gorgeous deluxe boxed set of Walt Whitman’s Leaves of Grass. Shockingly affordable!</p>
+<ul>
+  <li>Constitutional Illegalities, Collusion, and/or Obstruction of Justice</li>
+  <li>Environment</li>
+  <li>Harassment, Bullying, Retribution, and/or Sexual Misconduct</li>
+  <li>Lies and Misinformation</li>
+  <li>Musk Madness</li>
+  <li>Policy</li>
+  <li>Public Statements and Social Media Posts</li>
+  <li>Trump Family Business Dealings</li>
+  <li>Trump Staff and Administration</li>
+  <li>White Supremacy, Racism, Misogyny, Homophobia, Transphobia, and/or Xenophobia</li>
+</ul>
 
 - - -
 Main Index
@@ -1794,14 +1790,15 @@ Main Index
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 - - -
 APRIL 2025
-– April 1, 2025 – Princeton University said that the US government had frozen several dozen of its research grants without explanation. According to a Department of Energy spokesperson, the grants were paused “pending the completion of the Department of Education’s investigation into Princeton regarding antisemitic harassment.” The funding freeze came just weeks after Princeton’s president, Christopher L. Eisgruber, published an opinion essay in The Atlantic criticizing the Trump administration’s threatened funding cuts and demands to Columbia University. Wrote Eisgruber, “The attack on Columbia is a radical threat to scholarly excellence and to America’s leadership in research. Universities and their leaders should speak up and litigate forcefully to protect their rights.” According to Inside Higher Education, approximately $210 million in grants, about half of Princeton’s total grants for the year, were frozen.
+<ul>
+  <li>April 1, 2025 – Princeton University said that the US government had frozen several dozen of its research grants without explanation. According to a Department of Energy spokesperson, the grants were paused “pending the completion of the Department of Education’s investigation into Princeton regarding antisemitic harassment.” The funding freeze came just weeks after Princeton’s president, Christopher L. Eisgruber, published an opinion essay in The Atlantic criticizing the Trump administration’s threatened funding cuts and demands to Columbia University. Wrote Eisgruber, “The attack on Columbia is a radical threat to scholarly excellence and to America’s leadership in research. Universities and their leaders should speak up and litigate forcefully to protect their rights.” According to Inside Higher Education, approximately $210 million in grants, about half of Princeton’s total grants for the year, were frozen.</li>
 
-– April 1, 2025 – In an interview with Reuters, former Costa Rican president and Nobel laureate Óscar Arias said the US had revoked his visa. The visa revocation came several weeks after Arias posted multiple social media posts critical of the Trump administration. On February 3, Arias compared Trump to a “Roman emperor.” On February 28, he criticized Trump and JD Vance of using “arrogant and humiliating language,” “intimidating words,” and “a series of inappropriate and [sic] threats” in their televised Oval Office meeting with Ukrainian President Volodymyr Zelenskyy. “If someone wants to use a reprisal to silence me, well, obviously they’re not going to silence me,” said Arias, who was awarded the 1987 Nobel Peace Prize for negotiating an end to conflicts in Central America.
+  <li>April 1, 2025 – In an interview with Reuters, former Costa Rican president and Nobel laureate Óscar Arias said the US had revoked his visa. The visa revocation came several weeks after Arias posted multiple social media posts critical of the Trump administration. On February 3, Arias compared Trump to a “Roman emperor.” On February 28, he criticized Trump and JD Vance of using “arrogant and humiliating language,” “intimidating words,” and “a series of inappropriate and [sic] threats” in their televised Oval Office meeting with Ukrainian President Volodymyr Zelenskyy. “If someone wants to use a reprisal to silence me, well, obviously they’re not going to silence me,” said Arias, who was awarded the 1987 Nobel Peace Prize for negotiating an end to conflicts in Central America.</li>
 
-– April 2, 2025 – US District Judge Dale E. Ho dismissed corruption charges against New York City Mayor Eric Adams—who spent months currying favor with Trump—but stopped short of dismissing the charges without prejudice, which would have enabled the Justice Department to reinstate the charges at a later date. In his memo to the Southern District of New York, acting Deputy Attorney General Emil Bove had argued that continued prosecution of Adams would interfere with the mayor’s ability to enforce the Trump administration’s immigration agenda. Bove also noted that the order was made “without assessing the strength of the evidence or the legal theories on which the case is based.” In his ruling, Judge Ho wrote, “Everything here smacks of a bargain: Dismissal of indictment in exchange for immigration policy concessions.” He said he had little recourse but to dismiss after the DOJ abandoned the case, but he criticized the Justice Department’s reasoning as “unprecedented and breathtaking in its sweep” and rebutted DOJ claims that the prosecution had been political: “There is no evidence—zero—that [Manhattan federal prosecutors] had any improper motives.”
+  <li>April 2, 2025 – US District Judge Dale E. Ho dismissed corruption charges against New York City Mayor Eric Adams—who spent months currying favor with Trump—but stopped short of dismissing the charges without prejudice, which would have enabled the Justice Department to reinstate the charges at a later date. In his memo to the Southern District of New York, acting Deputy Attorney General Emil Bove had argued that continued prosecution of Adams would interfere with the mayor’s ability to enforce the Trump administration’s immigration agenda. Bove also noted that the order was made “without assessing the strength of the evidence or the legal theories on which the case is based.” In his ruling, Judge Ho wrote, “Everything here smacks of a bargain: Dismissal of indictment in exchange for immigration policy concessions.” He said he had little recourse but to dismiss after the DOJ abandoned the case, but he criticized the Justice Department’s reasoning as “unprecedented and breathtaking in its sweep” and rebutted DOJ claims that the prosecution had been political: “There is no evidence—zero—that [Manhattan federal prosecutors] had any improper motives.”</li>
 
-– April 2, 2025 – In a Rose Garden ceremony, President Trump announced sweeping new “Liberation Day” tariffs, including a 10 percent baseline tariff and significantly higher rates against Japan, China, and the European Union. The following day, the stock market experienced its biggest decline since 2020. The S&P 500 fell 4.84 percent, the Dow Jones Industrial Average 3.98 percent, and the Nasdaq Composite 5.97 percent. Acknowledging the dramatic stock market declines, Trump compared the tariffs to “an operation, like when a patient gets operated on” and predicted a recovery without evidence: “The markets are going to boom. The stock is going to boom. The country is going to boom. And the rest of the world wants to see if there’s any way they can make a deal.” The financial services company JPMorgan said that the tariffs would lead to a recession.
-
+  <li>April 2, 2025 – In a Rose Garden ceremony, President Trump announced sweeping new “Liberation Day” tariffs, including a 10 percent baseline tariff and significantly higher rates against Japan, China, and the European Union. The following day, the stock market experienced its biggest decline since 2020. The S&P 500 fell 4.84 percent, the Dow Jones Industrial Average 3.98 percent, and the Nasdaq Composite 5.97 percent. Acknowledging the dramatic stock market declines, Trump compared the tariffs to “an operation, like when a patient gets operated on” and predicted a recovery without evidence: “The markets are going to boom. The stock is going to boom. The country is going to boom. And the rest of the world wants to see if there’s any way they can make a deal.” The financial services company JPMorgan said that the tariffs would lead to a recession.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Excerpts from Trump’s “Liberation Day” speech. (CBS)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
