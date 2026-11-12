@@ -14,7 +14,7 @@ false claims from January 2017 to June, 2019 (2 1/2 years)</p>
 <p>On January 20, 2025 Trump became president a 2nd time. God save America. Grift? Yes. It 
 started immediately. Over 3.5 billion tallied so far, between Jan 20, 2025 and July 1, 2025.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>Trump's 13 BIGGEST lies in his first month back in office</h2>
+<h2>Trump's 13 BIGGEST lies in his first month back in office a 2nd time</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>President Donald Trump moved at a blistering pace in his first month back in the White 
 House. He lied fast and furious, too.</p>
